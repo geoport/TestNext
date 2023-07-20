@@ -12,7 +12,6 @@
         "cypress": "cypress open",
         "component": "cypress open --component",
         "component:headless": "cypress run --component",
-        "cloudflare:build": "node node_modules/@cloudflare/next-on-pages/bin/index.js --experimental-minify",
         "postinstall": "patch-package"
     },
     "prettier": {
