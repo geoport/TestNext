@@ -6,6 +6,7 @@ services:
             - 3000:3000
         networks:
             - web
+        mem_limit: 1500m
     nginx:
         image: nginx
         ports:
