@@ -1,0 +1,77 @@
+syntax = "proto3";
+
+option go_package = "schema/GoMatch";
+package GoMatch;
+
+// Earthquake Selection Messages
+message EqSelectionRequest {
+  int32 requiredRecordNumber = 1;
+  int32 maxAllowedStation = 2;
+  double minMw = 3;
+  double maxMw = 4;
+  double minPga = 5;
+  double maxPga = 6;
+  double minAI = 7;
+  double maxAI = 8;
+  double minVS30 = 9;
+  double maxVS30 = 10;
+  double minRrup = 11;
+  double maxRrup = 12;
+  repeated string faultTypes = 13;
+  string spectraType = 14;
+  double SDS = 15;
+  double SD1 = 16;
+  string designCode = 17;
+  double minScaleFactor = 18;
+  double maxScaleFactor = 19;
+  double minScalingPeriod = 20;
+  double maxScalingPeriod = 21;
+  bool allowScaling = 22;
+  string scalingMethod = 23;
+  double minSelectionPeriod = 24;
+  double maxSelectionPeriod = 25;
+  bool optimizeAverage = 26;
+  int32 minYear = 27;
+  int32 maxYear = 28;
+}
+
+message EqRecord {
+  int32 RSN = 1;
+  string stationName = 2;
+  string eventName = 3;
+  double Mw = 4;
+  double Rrup = 5;
+  double VS30 = 6;
+  int32 year = 7;
+  string faultType = 8;
+  double timeStep = 9;
+  repeated double spectralAccelerations = 10;
+  double scaleFactor = 11;
+  string fileName = 12;
+  string fileNameEW = 13;
+  string fileNameNS = 14;
+  repeated double accelerations = 15;
+  repeated double accelerationsEW = 16;
+  repeated double accelerationsNS = 17;
+  double pga = 18;
+  double pgaEW = 19;
+  double pgaNS = 20;
+  double ai = 21;
+  double aiEW = 22;
+  double aiNS = 23;
+  double pp = 24;
+  double ppEW = 25;
+  double ppNS = 26;
+}
+
+message EqSelectionReply {
+  bool gotEnoughRecords = 1;
+  repeated double targetSpectra = 2;
+  repeated double targetSpectraPeriods = 3;
+  map<string, EqRecord> selectedRecords = 4;
+}
+
+service EqSelectionService {
+  rpc EarthquakeSelectionHandler (EqSelectionRequest) returns (EqSelectionReply) {}
+}
+

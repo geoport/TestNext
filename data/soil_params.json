@@ -1,0 +1,146 @@
+{
+    "thickness": {
+        "definition": "Bir zemin tabakas\u0131n\u0131n sahip olu\u011fu kal\u0131nl\u0131\u011f\u0131 ifade eder.",
+        "minValue": 1e-05,
+        "maxValue": 200.0,
+        "unit": "m"
+    },
+    "dryUnitWeight": {
+        "definition": "Ya\u015f veya kuru zemindeki kuru a\u011f\u0131rl\u0131\u011f\u0131n (tane a\u011f\u0131rl\u0131\u011f\u0131n\u0131n) t\u00fcm hacme oran\u0131 olarak tan\u0131mlan\u0131r.",
+        "minValue": 1.0,
+        "maxValue": 5.0,
+        "unit": "t/m3"
+    },
+    "saturatedUnitWeight": {
+        "definition": "Zeminin b\u00fct\u00fcn bo\u015fluklar\u0131n\u0131n su ile dolu oldu\u011fu suya tam doygun zeminlerde; t\u00fcm a\u011f\u0131rl\u0131\u011f\u0131n t\u00fcm hacme oran\u0131 olarak tan\u0131mlan\u0131r.",
+        "minValue": 1.0,
+        "maxValue": 5.0,
+        "unit": "t/m3"
+    },
+    "fineContent": {
+        "definition": "Zemin davran\u0131\u015f\u0131ndan ba\u011f\u0131ms\u0131z olarak, 200 numaral\u0131 elekten (0,075 mm) daha ince zemin par\u00e7ac\u0131klar\u0131n\u0131n oran\u0131 olarak tan\u0131mlanmaktad\u0131r.",
+        "minValue": 0.0,
+        "maxValue": 100.0,
+        "unit": "%"
+    },
+    "liquidLimit": {
+        "definition": "Zeminin s\u0131v\u0131 gibi davranmaya ba\u015flad\u0131\u011f\u0131 su muhtevas\u0131d\u0131r.",
+        "minValue": 0.0,
+        "maxValue": 1000.0,
+        "unit": "%"
+    },
+    "plasticLimit": {
+        "definition": "Zeminin plastik davrand\u0131\u011f\u0131 en d\u00fc\u015f\u00fck su muhtevas\u0131d\u0131r.",
+        "minValue": 0.0,
+        "maxValue": 300.0,
+        "unit": "%"
+    },
+    "plasticityIndex": {
+        "definition": "Likit limit de\u011ferinin plastik limit de\u011ferinden fark\u0131n\u0131 ifade eder. Plastik durumu sa\u011flayan nemin s\u0131n\u0131rlar\u0131n\u0131 belirtir.",
+        "minValue": 0.0,
+        "maxValue": 700.0,
+        "unit": "%"
+    },
+    "cohesion": {
+        "definition": "Zeminde molek\u00fclleri veya benzeri par\u00e7ac\u0131klar\u0131 bir arada tutan kuvvete denir.",
+        "minValue": 0.0,
+        "maxValue": 90.0,
+        "unit": "t/m2"
+    },
+    "undrainedShearStrength": {
+        "definition": "G\u00f6\u00e7me zarf\u0131 meydana gelmeden zeminin kar\u015f\u0131 koyabilece\u011fi en y\u00fcksek kayma gerilmesidir.",
+        "minValue": 0.0,
+        "maxValue": 100.0,
+        "unit": "t/m2"
+    },
+    "frictionAngle": {
+        "definition": "Kaya veya toprak gibi malzemelerin kayma gerilmesine kar\u015f\u0131 dayan\u0131kl\u0131l\u0131k yetene\u011fidir.",
+        "minValue": 0.0,
+        "maxValue": 80.0,
+        "unit": "\u00b0"
+    },
+    "waterContent": {
+        "definition": "Zemindeki suyun y\u00fczde olarak miktar\u0131d\u0131r.",
+        "minValue": 0.0,
+        "maxValue": 100.0,
+        "unit": "%"
+    },
+    "elasticModulus": {
+        "definition": "Zemine uygulanan y\u00fck sonucunda meydana gelen gerilmenin boyuna uzama miktar\u0131na denir. ",
+        "minValue": 0.0,
+        "maxValue": 50000.0,
+        "unit": "t/m2"
+    },
+    "poissonRatio": {
+        "definition": "Yanal eksenlerde olu\u015fan birim \u015fekil de\u011fi\u015ftirmenin, kuvvet ekseninde olu\u015fan birim \u015fekil de\u011fi\u015ftirmeye oran\u0131d\u0131r. Ayr\u0131ca zeminin suya doygunlu\u011funu anlatan bir sabittir.",
+        "minValue": 0.0,
+        "maxValue": 0.5,
+        "unit": ""
+    },
+    "voidRatio": {
+        "definition": "Bo\u015fluklu bir yap\u0131ya sahip olan zeminde bo\u015fluk durumunu yans\u0131tan bir terim olup, bo\u015fluk hacminin tane hacmine oran\u0131n\u0131 ifade eder.",
+        "minValue": 0.0,
+        "maxValue": 300.0,
+        "unit": "%"
+    },
+    "compressionIndex": {
+        "definition": "Konsolidasyon deneyine ait bask\u0131y\u0131 azaltma e\u011frisinin e\u011fimini ifade eder.",
+        "minValue": 0.0,
+        "maxValue": 10.0,
+        "unit": ""
+    },
+    "recompressionIndex": {
+        "definition": "Konsolidasyon deneyine ait bakir e\u011frinin e\u011fimini ifade eder. ",
+        "minValue": 0.0,
+        "maxValue": 10.0,
+        "unit": ""
+    },
+    "preconsolidationPressure": {
+        "definition": "Zeminin ge\u00e7mi\u015fte etkisinde oldu\u011fu en b\u00fcy\u00fck bas\u0131n\u00e7 de\u011ferini ifade eder.",
+        "minValue": 0.0,
+        "maxValue": 800.0,
+        "unit": "t/m2"
+    },
+    "volumeCompressibilityCoefficient": {
+        "definition": "Bir zeminin yatay harekete izin vermeyecek \u015fekilde s\u0131k\u0131\u015ft\u0131r\u0131ld\u0131\u011f\u0131nda numunenin gerilme davran\u0131\u015f\u0131d\u0131r. ",
+        "minValue": 0.0,
+        "maxValue": 2.0,
+        "unit": "m2/t"
+    },
+    "shearWaveVelocity": {
+        "definition": "Zeminin mekanik \u00f6zelliklerinden biridir, dinamik ara\u015ft\u0131rmalar i\u00e7in \u00e7ok \u00f6nemli olan bu parametre sahada ve laboratuvarda \u00f6l\u00e7\u00fclebilir. ",
+        "minValue": 0.0,
+        "maxValue": 3000.0,
+        "unit": "m/s"
+    },
+    "RQD": {
+        "definition": "Sondajdan elde edilen karotlar\u0131n, boylar\u0131 10 cm den fazla olanlar\u0131n\u0131n toplam\u0131n\u0131n kademe ilerlemesine oran\u0131 olarak ifade edilir. ",
+        "minValue": 0.0,
+        "maxValue": 100.0,
+        "unit": "%"
+    },
+    "IS50": {
+        "definition": "Kaya k\u00fctlesi s\u0131n\u0131flama sistemlerinde kaya\u00e7 malzemesinin dayan\u0131m parametresidir. IS50; 50 mm \u00e7apl\u0131 karota g\u00f6re d\u00fczeltilmi\u015f nokta y\u00fck dayan\u0131m\u0131n\u0131 ifade eder.",
+        "minValue": 0.0,
+        "maxValue": 950.0,
+        "unit": "t/m2"
+    },
+    "kp": {
+        "definition": "B\u00fcy\u00fckl\u00fc\u011f\u00fc kaz\u0131k t\u00fcr\u00fcne ve soketlenen zemin/kaya k\u00fctlesi t\u00fcr\u00fcne ba\u011fl\u0131 olan ampirik fakt\u00f6rd\u00fcr.",
+        "minValue": 12.0,
+        "maxValue": 24.0,
+        "unit": ""
+    },
+    "dampingRatio": {
+        "definition": "Ger\u00e7ekle\u015fen osilasyonun s\u00f6n\u00fcm miktar\u0131n\u0131 temsil eden b\u00fcy\u00fckl\u00fckt\u00fcr.",
+        "minValue": 0.0,
+        "maxValue": 5.0,
+        "unit": ""
+    },
+    "shearModulus": {
+        "definition": "Zeminin kayma gerilmesine kar\u015f\u0131 g\u00f6sterdi\u011fi direnci ifade eder.",
+        "minValue": 0.0,
+        "maxValue": 25000.0,
+        "unit": "t/m2"
+    }
+}

@@ -1,0 +1,55 @@
+syntax = "proto3";
+
+package gra;
+
+message InputMotion{
+  float timeStep = 1;
+  repeated float accelerations = 2;
+}
+
+message SoilProfile{
+  repeated float shearWaveVelocity = 1;
+  repeated float thickness = 2;
+  repeated float unitWeight = 3;
+  repeated float dampingRatio = 4;
+  repeated float plasticityIndex = 5;
+}
+
+message Request{
+  map<string, InputMotion> inputMotions = 1;
+  SoilProfile soilProfile = 2;
+  string boundaryCondition = 3;
+  repeated float outputDepths = 4;
+}
+
+message TimeHistory{
+  float timeStep = 1;
+  repeated float times = 2;
+  repeated float displacements = 3;
+  repeated float velocities = 4;
+  repeated float accelerations = 5;
+  repeated float stresses = 6;
+  repeated float strains = 7;
+  repeated float periods = 8;
+  repeated float spectralAccelerations = 9;
+  repeated float pga = 10;
+  repeated float pgv = 11;
+  repeated float pgd = 12;
+  repeated float maxStrain = 13;
+  repeated float maxStress = 14;
+}
+
+message RediscretizedSoilProfile{
+  repeated float depth = 1;
+  repeated float unitWeight = 2;
+}
+
+message Response{
+  map<string, TimeHistory> outputMotions = 1;
+  map<string, TimeHistory> inputMotions = 2;
+  RediscretizedSoilProfile rediscretizedSoilProfile = 3;
+}
+
+service Analyser {
+  rpc GRA(Request) returns (Response) {};
+}

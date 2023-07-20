@@ -1,0 +1,143 @@
+syntax = "proto3";
+
+option go_package = "schema/GoImprovement";
+package GoImprovement;
+
+message SoilProfile {
+  repeated string soilClass = 1;
+  repeated bool isCohesive = 2;
+  repeated double thickness = 3;
+  repeated double undrainedShearStrength = 4;
+  repeated double cohesion = 5;
+  repeated double frictionAngle = 6;
+  repeated double elasticModulus = 7;
+  repeated double shearModulus = 8;
+  repeated double dryUnitWeight = 9;
+  repeated double saturatedUnitWeight = 10;
+  repeated double poissonsRatio = 11;
+  repeated double plasticityIndex = 12;
+  repeated double fineContent = 13;
+  double groundWaterLevel = 14;
+  bool noGwt = 15;
+}
+
+message LoadingData {
+  double horizontalLoadX = 1;
+  double horizontalLoadY = 2;
+  double foundationPressure = 3;
+}
+
+message FoundationData {
+  double foundationDepth = 1;
+  double foundationBaseAngle = 2;
+  double foundationWidth = 3;
+  double foundationLength = 4;
+  double slopeAngle = 5;
+}
+
+message JetGroutParams {
+  double diameter = 1;
+  double horizontalSpacing = 2;
+  double verticalSpacing = 3;
+  double elasticModulus = 4;
+  double poissonsRatio = 5;
+  double unconfinedCompressiveStrength = 6;
+  double shearModulus = 7;
+}
+
+message JGAnalysisOptions {
+  bool enhanceBearingCapacity = 1;
+  bool enhanceSettlement = 2;
+  bool enhanceSoilParams = 3;
+  bool enhanceLiquefaction = 4;
+}
+
+message SPT {
+  repeated double depth = 1;
+  repeated int64 N = 2;
+  double energyCorrectionFactor = 3;
+  double diameterCorrectionFactor = 4;
+  double samplerCorrectionFactor = 5;
+  bool makeCorrection = 6;
+}
+
+message Seismicity {
+  double earthquakeMagnitude = 1;
+  string localSoilClass = 2;
+  double SS = 3;
+  double S1 = 4;
+}
+
+message JetGroutRequest {
+  SoilProfile soilProfile = 1;
+  LoadingData loadingData = 2;
+  FoundationData foundationData = 3;
+  JetGroutParams groutParams = 4;
+  JGAnalysisOptions analysisOptions = 5;
+  SPT spt = 6;
+  Seismicity seismicity = 7;
+}
+
+message LiquefactionResults {
+  repeated string soilClasses = 1;
+  repeated double layerThicknesses = 2;
+  repeated double dryUnitWeights = 3;
+  repeated double saturatedUnitWeights = 4;
+  repeated double fineContents = 5;
+  repeated double plasticityIndexes = 6;
+  repeated double layerDepths = 7;
+  repeated double normalStresses = 8;
+  repeated double effectiveStresses = 9;
+  repeated double Cn = 10;
+  repeated double CRR = 11;
+  repeated double CRR75 = 12;
+  repeated double CSR = 13;
+  repeated double safetyFactors = 14;
+  repeated bool isSafe = 15;
+  repeated double settlements = 16;
+  double totalSettlement = 17;
+  double MSF = 18;
+  repeated double Rd = 19;
+  repeated int64 N = 20;
+  repeated int64 N60 = 21;
+  repeated int64 N160 = 22;
+  repeated int64 N160f = 23;
+  repeated double Cr = 24;
+}
+
+message JetGroutResponse {
+  double averageCohesion = 1;
+  double averageFrictionAngle = 2;
+  double averageElasticModulus = 3;
+  double averageShearModulus = 4;
+  string effectiveSoilClass = 5;
+  string liquefiedSoilClass = 6;
+  double Gr = 7;
+  double areaRatio = 8;
+  double groutArea = 9;
+  double shearStressRatio = 10;
+  double enhancedCSR = 11;
+  double enhancedSafetyFactor = 12;
+  double enhancedCohesion = 13;
+  double enhancedFrictionAngle = 14;
+  double enhancedElasticModulus = 15;
+  double enhancedBearingCapacity = 16;
+  double groutElasticModulus = 17;
+  double groutCohesion = 18;
+  double groutFrictionAngle = 19;
+  double minGroutDepth = 20;
+  double maxGroutDepth = 21;
+  double groutLength = 22;
+  double minCSR = 23;
+  double minCRR = 24;
+  double minFS = 25;
+  double shearModulusRatio = 26;
+  double liquefactionStart = 27;
+  double liquefactionEnd = 28;
+  double enhancedSettlement = 29;
+  LiquefactionResults initialLiquefactionResults = 30;
+}
+
+service GoImprovement {
+  rpc JetGrout (JetGroutRequest) returns (JetGroutResponse) {}
+}

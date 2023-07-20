@@ -1,0 +1,3592 @@
+[
+    {
+        "ilce": "Alada\u011f",
+        "neighbourhood": "Akpinar",
+        "id": 45478
+    },
+    {
+        "ilce": "Alada\u011f",
+        "neighbourhood": "Ba\u015fpinar",
+        "id": 46144
+    },
+    {
+        "ilce": "Alada\u011f",
+        "neighbourhood": "Boztahta",
+        "id": 46219
+    },
+    {
+        "ilce": "Alada\u011f",
+        "neighbourhood": "B\u00fcy\u00fcksofulu",
+        "id": 46017
+    },
+    {
+        "ilce": "Alada\u011f",
+        "neighbourhood": "Ceritler",
+        "id": 46419
+    },
+    {
+        "ilce": "Alada\u011f",
+        "neighbourhood": "Civanbey",
+        "id": 143186
+    },
+    {
+        "ilce": "Alada\u011f",
+        "neighbourhood": "Dailer",
+        "id": 144736
+    },
+    {
+        "ilce": "Alada\u011f",
+        "neighbourhood": "Darilik",
+        "id": 46213
+    },
+    {
+        "ilce": "Alada\u011f",
+        "neighbourhood": "D\u00f6lekli",
+        "id": 45347
+    },
+    {
+        "ilce": "Alada\u011f",
+        "neighbourhood": "D\u00fcnyadibi",
+        "id": 45795
+    },
+    {
+        "ilce": "Alada\u011f",
+        "neighbourhood": "Ebri\u015fim",
+        "id": 141503
+    },
+    {
+        "ilce": "Alada\u011f",
+        "neighbourhood": "E\u011fner",
+        "id": 46208
+    },
+    {
+        "ilce": "Alada\u011f",
+        "neighbourhood": "Gerdibi",
+        "id": 45383
+    },
+    {
+        "ilce": "Alada\u011f",
+        "neighbourhood": "Gire\u011fiyenik\u00f6y",
+        "id": 145098
+    },
+    {
+        "ilce": "Alada\u011f",
+        "neighbourhood": "G\u00f6k\u00e7ek\u00f6y",
+        "id": 143144
+    },
+    {
+        "ilce": "Alada\u011f",
+        "neighbourhood": "Kabasakal",
+        "id": 46214
+    },
+    {
+        "ilce": "Alada\u011f",
+        "neighbourhood": "Karahan",
+        "id": 46270
+    },
+    {
+        "ilce": "Alada\u011f",
+        "neighbourhood": "Kicak",
+        "id": 45264
+    },
+    {
+        "ilce": "Alada\u011f",
+        "neighbourhood": "Ki\u015flak",
+        "id": 45340
+    },
+    {
+        "ilce": "Alada\u011f",
+        "neighbourhood": "Kizildam",
+        "id": 46249
+    },
+    {
+        "ilce": "Alada\u011f",
+        "neighbourhood": "K\u00f6kez",
+        "id": 45861
+    },
+    {
+        "ilce": "Alada\u011f",
+        "neighbourhood": "K\u00f6pr\u00fcc\u00fck",
+        "id": 143817
+    },
+    {
+        "ilce": "Alada\u011f",
+        "neighbourhood": "K\u00fcp",
+        "id": 46357
+    },
+    {
+        "ilce": "Alada\u011f",
+        "neighbourhood": "Madenli",
+        "id": 206536
+    },
+    {
+        "ilce": "Alada\u011f",
+        "neighbourhood": "Mansurlu",
+        "id": 46027
+    },
+    {
+        "ilce": "Alada\u011f",
+        "neighbourhood": "Mazilik",
+        "id": 45170
+    },
+    {
+        "ilce": "Alada\u011f",
+        "neighbourhood": "Sinanpa\u015fa",
+        "id": 46016
+    },
+    {
+        "ilce": "Alada\u011f",
+        "neighbourhood": "Tepeba\u011f",
+        "id": 145553
+    },
+    {
+        "ilce": "Alada\u011f",
+        "neighbourhood": "Topalli",
+        "id": 46150
+    },
+    {
+        "ilce": "Alada\u011f",
+        "neighbourhood": "Uzunkuyu",
+        "id": 46032
+    },
+    {
+        "ilce": "Alada\u011f",
+        "neighbourhood": "Ya\u011fbasan",
+        "id": 45348
+    },
+    {
+        "ilce": "Alada\u011f",
+        "neighbourhood": "Yenimahalle",
+        "id": 143359
+    },
+    {
+        "ilce": "Alada\u011f",
+        "neighbourhood": "Yetimli",
+        "id": 45464
+    },
+    {
+        "ilce": "Alada\u011f",
+        "neighbourhood": "Y\u00fcksek\u00f6ren",
+        "id": 45892
+    },
+    {
+        "ilce": "Ceyhan",
+        "neighbourhood": "A\u011fa\u00e7li",
+        "id": 128623
+    },
+    {
+        "ilce": "Ceyhan",
+        "neighbourhood": "A\u011fa\u00e7pinar",
+        "id": 128620
+    },
+    {
+        "ilce": "Ceyhan",
+        "neighbourhood": "Akdam",
+        "id": 128624
+    },
+    {
+        "ilce": "Ceyhan",
+        "neighbourhood": "Altig\u00f6zbekirli",
+        "id": 128660
+    },
+    {
+        "ilce": "Ceyhan",
+        "neighbourhood": "Altikara",
+        "id": 128599
+    },
+    {
+        "ilce": "Ceyhan",
+        "neighbourhood": "Aydinlar",
+        "id": 204931
+    },
+    {
+        "ilce": "Ceyhan",
+        "neighbourhood": "Aytemiro\u011flu",
+        "id": 128591
+    },
+    {
+        "ilce": "Ceyhan",
+        "neighbourhood": "Azizli",
+        "id": 128634
+    },
+    {
+        "ilce": "Ceyhan",
+        "neighbourhood": "Bahriye",
+        "id": 128621
+    },
+    {
+        "ilce": "Ceyhan",
+        "neighbourhood": "Ba\u015f\u00f6ren",
+        "id": 128666
+    },
+    {
+        "ilce": "Ceyhan",
+        "neighbourhood": "Bota",
+        "id": 128585
+    },
+    {
+        "ilce": "Ceyhan",
+        "neighbourhood": "Burhaniye",
+        "id": 128587
+    },
+    {
+        "ilce": "Ceyhan",
+        "neighbourhood": "Burhanli",
+        "id": 128635
+    },
+    {
+        "ilce": "Ceyhan",
+        "neighbourhood": "B\u00fcy\u00fck Burhaniye",
+        "id": 128600
+    },
+    {
+        "ilce": "Ceyhan",
+        "neighbourhood": "B\u00fcy\u00fck Mangit",
+        "id": 128601
+    },
+    {
+        "ilce": "Ceyhan",
+        "neighbourhood": "B\u00fcy\u00fckkirim",
+        "id": 128588
+    },
+    {
+        "ilce": "Ceyhan",
+        "neighbourhood": "\u00c7akaldere",
+        "id": 128602
+    },
+    {
+        "ilce": "Ceyhan",
+        "neighbourhood": "Camuza\u011fili",
+        "id": 128625
+    },
+    {
+        "ilce": "Ceyhan",
+        "neighbourhood": "\u00c7atakli",
+        "id": 128637
+    },
+    {
+        "ilce": "Ceyhan",
+        "neighbourhood": "\u00c7atalh\u00fcy\u00fck",
+        "id": 128626
+    },
+    {
+        "ilce": "Ceyhan",
+        "neighbourhood": "\u00c7erkezkaramezar",
+        "id": 128614
+    },
+    {
+        "ilce": "Ceyhan",
+        "neighbourhood": "\u00c7evretepe",
+        "id": 128657
+    },
+    {
+        "ilce": "Ceyhan",
+        "neighbourhood": "\u00c7i\u00e7ekli",
+        "id": 128603
+    },
+    {
+        "ilce": "Ceyhan",
+        "neighbourhood": "\u00c7iftlikler",
+        "id": 128604
+    },
+    {
+        "ilce": "Ceyhan",
+        "neighbourhood": "Cihanbekirli",
+        "id": 128662
+    },
+    {
+        "ilce": "Ceyhan",
+        "neighbourhood": "Civantayak",
+        "id": 128598
+    },
+    {
+        "ilce": "Ceyhan",
+        "neighbourhood": "\u00c7ok\u00e7apinar",
+        "id": 128605
+    },
+    {
+        "ilce": "Ceyhan",
+        "neighbourhood": "\u00c7ukurovaharasi",
+        "id": 128630
+    },
+    {
+        "ilce": "Ceyhan",
+        "neighbourhood": "De\u011firmendere",
+        "id": 128606
+    },
+    {
+        "ilce": "Ceyhan",
+        "neighbourhood": "De\u011firmenli",
+        "id": 128636
+    },
+    {
+        "ilce": "Ceyhan",
+        "neighbourhood": "Dikilita\u015f",
+        "id": 128661
+    },
+    {
+        "ilce": "Ceyhan",
+        "neighbourhood": "Dokuztekne",
+        "id": 128644
+    },
+    {
+        "ilce": "Ceyhan",
+        "neighbourhood": "Doruk",
+        "id": 128652
+    },
+    {
+        "ilce": "Ceyhan",
+        "neighbourhood": "Durhasandede",
+        "id": 128658
+    },
+    {
+        "ilce": "Ceyhan",
+        "neighbourhood": "Dutlupinar",
+        "id": 128643
+    },
+    {
+        "ilce": "Ceyhan",
+        "neighbourhood": "Erenler",
+        "id": 128607
+    },
+    {
+        "ilce": "Ceyhan",
+        "neighbourhood": "Gaziosmanpa\u015fa",
+        "id": 128596
+    },
+    {
+        "ilce": "Ceyhan",
+        "neighbourhood": "G\u00fcm\u00fcrd\u00fcl\u00fc",
+        "id": 128668
+    },
+    {
+        "ilce": "Ceyhan",
+        "neighbourhood": "G\u00fcndo\u011fan",
+        "id": 128656
+    },
+    {
+        "ilce": "Ceyhan",
+        "neighbourhood": "Haciibrahim",
+        "id": 128590
+    },
+    {
+        "ilce": "Ceyhan",
+        "neighbourhood": "Hamdilli",
+        "id": 128645
+    },
+    {
+        "ilce": "Ceyhan",
+        "neighbourhood": "Hamidiye",
+        "id": 128641
+    },
+    {
+        "ilce": "Ceyhan",
+        "neighbourhood": "Hamitbey",
+        "id": 128611
+    },
+    {
+        "ilce": "Ceyhan",
+        "neighbourhood": "Hamitbey Buca\u011fi",
+        "id": 128609
+    },
+    {
+        "ilce": "Ceyhan",
+        "neighbourhood": "H\u00fcrriyet",
+        "id": 128597
+    },
+    {
+        "ilce": "Ceyhan",
+        "neighbourhood": "Imran",
+        "id": 128647
+    },
+    {
+        "ilce": "Ceyhan",
+        "neighbourhood": "Inceyer",
+        "id": 205085
+    },
+    {
+        "ilce": "Ceyhan",
+        "neighbourhood": "Isali",
+        "id": 128655
+    },
+    {
+        "ilce": "Ceyhan",
+        "neighbourhood": "Isirganli",
+        "id": 128669
+    },
+    {
+        "ilce": "Ceyhan",
+        "neighbourhood": "Karakayali",
+        "id": 206904
+    },
+    {
+        "ilce": "Ceyhan",
+        "neighbourhood": "Kili\u00e7kaya",
+        "id": 128654
+    },
+    {
+        "ilce": "Ceyhan",
+        "neighbourhood": "Kivrikli",
+        "id": 128670
+    },
+    {
+        "ilce": "Ceyhan",
+        "neighbourhood": "Kizildere",
+        "id": 128612
+    },
+    {
+        "ilce": "Ceyhan",
+        "neighbourhood": "Konako\u011flu",
+        "id": 128592
+    },
+    {
+        "ilce": "Ceyhan",
+        "neighbourhood": "K\u00f6pr\u00fcl\u00fc",
+        "id": 128613
+    },
+    {
+        "ilce": "Ceyhan",
+        "neighbourhood": "K\u00f6rkuyu",
+        "id": 128649
+    },
+    {
+        "ilce": "Ceyhan",
+        "neighbourhood": "K\u00f6sreli",
+        "id": 128659
+    },
+    {
+        "ilce": "Ceyhan",
+        "neighbourhood": "K\u00fc\u00e7\u00fckkirim",
+        "id": 128589
+    },
+    {
+        "ilce": "Ceyhan",
+        "neighbourhood": "K\u00fc\u00e7\u00fckmangit",
+        "id": 128627
+    },
+    {
+        "ilce": "Ceyhan",
+        "neighbourhood": "Kurtkula\u011fi",
+        "id": 128648
+    },
+    {
+        "ilce": "Ceyhan",
+        "neighbourhood": "Kurtpinar",
+        "id": 128651
+    },
+    {
+        "ilce": "Ceyhan",
+        "neighbourhood": "Kuzucak",
+        "id": 205098
+    },
+    {
+        "ilce": "Ceyhan",
+        "neighbourhood": "Mahmudiye",
+        "id": 128663
+    },
+    {
+        "ilce": "Ceyhan",
+        "neighbourhood": "Mercimek",
+        "id": 128632
+    },
+    {
+        "ilce": "Ceyhan",
+        "neighbourhood": "Mercin",
+        "id": 128610
+    },
+    {
+        "ilce": "Ceyhan",
+        "neighbourhood": "Mithatpa\u015fa",
+        "id": 128595
+    },
+    {
+        "ilce": "Ceyhan",
+        "neighbourhood": "Muradiye",
+        "id": 128586
+    },
+    {
+        "ilce": "Ceyhan",
+        "neighbourhood": "Narlik",
+        "id": 128650
+    },
+    {
+        "ilce": "Ceyhan",
+        "neighbourhood": "Na\u015fidiye",
+        "id": 128664
+    },
+    {
+        "ilce": "Ceyhan",
+        "neighbourhood": "Nazimbey Yenik\u00f6y",
+        "id": 128617
+    },
+    {
+        "ilce": "Ceyhan",
+        "neighbourhood": "Rifatiye",
+        "id": 128633
+    },
+    {
+        "ilce": "Ceyhan",
+        "neighbourhood": "Rumeli \u015e\u00fckriye",
+        "id": 128674
+    },
+    {
+        "ilce": "Ceyhan",
+        "neighbourhood": "Sadiye Karamezar",
+        "id": 128638
+    },
+    {
+        "ilce": "Ceyhan",
+        "neighbourhood": "Sa\u011fkaya",
+        "id": 128665
+    },
+    {
+        "ilce": "Ceyhan",
+        "neighbourhood": "Saribah\u00e7e",
+        "id": 128628
+    },
+    {
+        "ilce": "Ceyhan",
+        "neighbourhood": "Sarimazi",
+        "id": 128640
+    },
+    {
+        "ilce": "Ceyhan",
+        "neighbourhood": "Selimiye",
+        "id": 128642
+    },
+    {
+        "ilce": "Ceyhan",
+        "neighbourhood": "Siddikiye",
+        "id": 128619
+    },
+    {
+        "ilce": "Ceyhan",
+        "neighbourhood": "Sirkeli",
+        "id": 128615
+    },
+    {
+        "ilce": "Ceyhan",
+        "neighbourhood": "So\u011fukpinar",
+        "id": 205146
+    },
+    {
+        "ilce": "Ceyhan",
+        "neighbourhood": "Soysalli",
+        "id": 128671
+    },
+    {
+        "ilce": "Ceyhan",
+        "neighbourhood": "Tatarli",
+        "id": 128639
+    },
+    {
+        "ilce": "Ceyhan",
+        "neighbourhood": "Tatlikuyu",
+        "id": 128672
+    },
+    {
+        "ilce": "Ceyhan",
+        "neighbourhood": "Toktami\u015f",
+        "id": 128616
+    },
+    {
+        "ilce": "Ceyhan",
+        "neighbourhood": "Tumlu",
+        "id": 128667
+    },
+    {
+        "ilce": "Ceyhan",
+        "neighbourhood": "T\u00fcrk \u015e\u00fckriye",
+        "id": 128673
+    },
+    {
+        "ilce": "Ceyhan",
+        "neighbourhood": "T\u00fcrl\u00fcba\u015f",
+        "id": 128594
+    },
+    {
+        "ilce": "Ceyhan",
+        "neighbourhood": "\u00dc\u00e7dutye\u015filova",
+        "id": 128629
+    },
+    {
+        "ilce": "Ceyhan",
+        "neighbourhood": "Veysiye",
+        "id": 205140
+    },
+    {
+        "ilce": "Ceyhan",
+        "neighbourhood": "Yalak",
+        "id": 128622
+    },
+    {
+        "ilce": "Ceyhan",
+        "neighbourhood": "Yellibel",
+        "id": 128653
+    },
+    {
+        "ilce": "Ceyhan",
+        "neighbourhood": "Ye\u015filbah\u00e7e",
+        "id": 128631
+    },
+    {
+        "ilce": "Ceyhan",
+        "neighbourhood": "Ye\u015fildam",
+        "id": 205086
+    },
+    {
+        "ilce": "Ceyhan",
+        "neighbourhood": "Yilankale",
+        "id": 128618
+    },
+    {
+        "ilce": "Ceyhan",
+        "neighbourhood": "Z\u00fcbeyde Hanim",
+        "id": 128593
+    },
+    {
+        "ilce": "\u00c7ukurova",
+        "neighbourhood": "Bozcalar",
+        "id": 171877
+    },
+    {
+        "ilce": "\u00c7ukurova",
+        "neighbourhood": "\u00c7akal Kuyusu",
+        "id": 126173
+    },
+    {
+        "ilce": "\u00c7ukurova",
+        "neighbourhood": "D\u00f6rtler",
+        "id": 171868
+    },
+    {
+        "ilce": "\u00c7ukurova",
+        "neighbourhood": "Fadil",
+        "id": 171875
+    },
+    {
+        "ilce": "\u00c7ukurova",
+        "neighbourhood": "G\u00f6kkuyu",
+        "id": 146844
+    },
+    {
+        "ilce": "\u00c7ukurova",
+        "neighbourhood": "Huzurevleri",
+        "id": 10007
+    },
+    {
+        "ilce": "\u00c7ukurova",
+        "neighbourhood": "Kabasakal",
+        "id": 126163
+    },
+    {
+        "ilce": "\u00c7ukurova",
+        "neighbourhood": "Karahan",
+        "id": 126170
+    },
+    {
+        "ilce": "\u00c7ukurova",
+        "neighbourhood": "Karalarbuca\u011fi",
+        "id": 126158
+    },
+    {
+        "ilce": "\u00c7ukurova",
+        "neighbourhood": "Karslilar",
+        "id": 126162
+    },
+    {
+        "ilce": "\u00c7ukurova",
+        "neighbourhood": "Ka\u015foba",
+        "id": 171871
+    },
+    {
+        "ilce": "\u00c7ukurova",
+        "neighbourhood": "Kire\u00e7oca\u011fi",
+        "id": 126175
+    },
+    {
+        "ilce": "\u00c7ukurova",
+        "neighbourhood": "K\u00fc\u00e7\u00fck\u00e7inar",
+        "id": 171872
+    },
+    {
+        "ilce": "\u00c7ukurova",
+        "neighbourhood": "Kurttepe",
+        "id": 126174
+    },
+    {
+        "ilce": "\u00c7ukurova",
+        "neighbourhood": "Mahfesi\u011fmaz",
+        "id": 180624
+    },
+    {
+        "ilce": "\u00c7ukurova",
+        "neighbourhood": "Memi\u015fli",
+        "id": 171874
+    },
+    {
+        "ilce": "\u00c7ukurova",
+        "neighbourhood": "\u00d6rc\u00fcn",
+        "id": 171873
+    },
+    {
+        "ilce": "\u00c7ukurova",
+        "neighbourhood": "Pirili",
+        "id": 171870
+    },
+    {
+        "ilce": "\u00c7ukurova",
+        "neighbourhood": "Salba\u015f",
+        "id": 171876
+    },
+    {
+        "ilce": "\u00c7ukurova",
+        "neighbourhood": "\u015eambayadi",
+        "id": 126164
+    },
+    {
+        "ilce": "\u00c7ukurova",
+        "neighbourhood": "S\u00f6\u011f\u00fctl\u00fc",
+        "id": 171869
+    },
+    {
+        "ilce": "\u00c7ukurova",
+        "neighbourhood": "Sudeposu \u00c7amkorulu\u011fu",
+        "id": 126161
+    },
+    {
+        "ilce": "\u00c7ukurova",
+        "neighbourhood": "Toros",
+        "id": 10006
+    },
+    {
+        "ilce": "\u00c7ukurova",
+        "neighbourhood": "Yurt",
+        "id": 10005
+    },
+    {
+        "ilce": "Feke",
+        "neighbourhood": "Akkaya",
+        "id": 47936
+    },
+    {
+        "ilce": "Feke",
+        "neighbourhood": "Akoluk",
+        "id": 137288
+    },
+    {
+        "ilce": "Feke",
+        "neighbourhood": "Ba\u011fdatli",
+        "id": 47937
+    },
+    {
+        "ilce": "Feke",
+        "neighbourhood": "Bah\u00e7ecik",
+        "id": 47014
+    },
+    {
+        "ilce": "Feke",
+        "neighbourhood": "Belenk\u00f6y",
+        "id": 47840
+    },
+    {
+        "ilce": "Feke",
+        "neighbourhood": "\u00c7andirlar",
+        "id": 47638
+    },
+    {
+        "ilce": "Feke",
+        "neighbourhood": "\u00c7ondu",
+        "id": 48036
+    },
+    {
+        "ilce": "Feke",
+        "neighbourhood": "\u00c7\u00fcr\u00fckler",
+        "id": 48001
+    },
+    {
+        "ilce": "Feke",
+        "neighbourhood": "De\u011firmenciu\u015fa\u011fi",
+        "id": 47639
+    },
+    {
+        "ilce": "Feke",
+        "neighbourhood": "Gaffaru\u015fa\u011fi",
+        "id": 147213
+    },
+    {
+        "ilce": "Feke",
+        "neighbourhood": "Gedikli",
+        "id": 47640
+    },
+    {
+        "ilce": "Feke",
+        "neighbourhood": "G\u00f6belli",
+        "id": 47837
+    },
+    {
+        "ilce": "Feke",
+        "neighbourhood": "G\u00f6k\u00e7eli",
+        "id": 47966
+    },
+    {
+        "ilce": "Feke",
+        "neighbourhood": "G\u00fcr\u00fcmze",
+        "id": 47965
+    },
+    {
+        "ilce": "Feke",
+        "neighbourhood": "G\u00fczpinari",
+        "id": 47901
+    },
+    {
+        "ilce": "Feke",
+        "neighbourhood": "Hidiru\u015fa\u011fi",
+        "id": 47838
+    },
+    {
+        "ilce": "Feke",
+        "neighbourhood": "Incirci",
+        "id": 47015
+    },
+    {
+        "ilce": "Feke",
+        "neighbourhood": "Islam",
+        "id": 47671
+    },
+    {
+        "ilce": "Feke",
+        "neighbourhood": "Kaley\u00fcz\u00fc",
+        "id": 143886
+    },
+    {
+        "ilce": "Feke",
+        "neighbourhood": "Karacau\u015fa\u011fi",
+        "id": 145493
+    },
+    {
+        "ilce": "Feke",
+        "neighbourhood": "Ka\u015falti",
+        "id": 143385
+    },
+    {
+        "ilce": "Feke",
+        "neighbourhood": "Kayadibi",
+        "id": 47873
+    },
+    {
+        "ilce": "Feke",
+        "neighbourhood": "Kazanci",
+        "id": 47875
+    },
+    {
+        "ilce": "Feke",
+        "neighbourhood": "Kiriku\u015fa\u011fi",
+        "id": 50035
+    },
+    {
+        "ilce": "Feke",
+        "neighbourhood": "Kisacikli",
+        "id": 47839
+    },
+    {
+        "ilce": "Feke",
+        "neighbourhood": "Kizilyer",
+        "id": 47938
+    },
+    {
+        "ilce": "Feke",
+        "neighbourhood": "Ko\u00e7yazi",
+        "id": 138960
+    },
+    {
+        "ilce": "Feke",
+        "neighbourhood": "Konakkuran",
+        "id": 47939
+    },
+    {
+        "ilce": "Feke",
+        "neighbourhood": "Kovuk\u00e7inar",
+        "id": 48002
+    },
+    {
+        "ilce": "Feke",
+        "neighbourhood": "Mansurlu",
+        "id": 47940
+    },
+    {
+        "ilce": "Feke",
+        "neighbourhood": "Musalar",
+        "id": 47608
+    },
+    {
+        "ilce": "Feke",
+        "neighbourhood": "Olucak",
+        "id": 47668
+    },
+    {
+        "ilce": "Feke",
+        "neighbourhood": "Ormancik",
+        "id": 47874
+    },
+    {
+        "ilce": "Feke",
+        "neighbourhood": "Ortak\u00f6y",
+        "id": 47670
+    },
+    {
+        "ilce": "Feke",
+        "neighbourhood": "Oru\u00e7lu",
+        "id": 48072
+    },
+    {
+        "ilce": "Feke",
+        "neighbourhood": "Pa\u015fali",
+        "id": 48070
+    },
+    {
+        "ilce": "Feke",
+        "neighbourhood": "\u015eahmuratli",
+        "id": 145469
+    },
+    {
+        "ilce": "Feke",
+        "neighbourhood": "S\u00fcphandere",
+        "id": 145765
+    },
+    {
+        "ilce": "Feke",
+        "neighbourhood": "Tenkerli",
+        "id": 48003
+    },
+    {
+        "ilce": "Feke",
+        "neighbourhood": "Tokmanakli",
+        "id": 47641
+    },
+    {
+        "ilce": "Feke",
+        "neighbourhood": "Tortulu",
+        "id": 47669
+    },
+    {
+        "ilce": "Feke",
+        "neighbourhood": "U\u011furluba\u011f",
+        "id": 48035
+    },
+    {
+        "ilce": "Feke",
+        "neighbourhood": "Yaylapinari",
+        "id": 146982
+    },
+    {
+        "ilce": "Feke",
+        "neighbourhood": "Yerebakan",
+        "id": 47016
+    },
+    {
+        "ilce": "Imamo\u011flu",
+        "neighbourhood": "A\u011fzikaraca K\u00f6y\u00fc",
+        "id": 45343
+    },
+    {
+        "ilce": "Imamo\u011flu",
+        "neighbourhood": "Alaybeyi K\u00f6y\u00fc",
+        "id": 46156
+    },
+    {
+        "ilce": "Imamo\u011flu",
+        "neighbourhood": "Aliler",
+        "id": 206175
+    },
+    {
+        "ilce": "Imamo\u011flu",
+        "neighbourhood": "Ayvali K\u00f6y\u00fc",
+        "id": 45998
+    },
+    {
+        "ilce": "Imamo\u011flu",
+        "neighbourhood": "Camili K\u00f6y\u00fc",
+        "id": 46209
+    },
+    {
+        "ilce": "Imamo\u011flu",
+        "neighbourhood": "\u00c7\u00f6rten K\u00f6y\u00fc",
+        "id": 45376
+    },
+    {
+        "ilce": "Imamo\u011flu",
+        "neighbourhood": "Danacili K\u00f6y\u00fc",
+        "id": 46176
+    },
+    {
+        "ilce": "Imamo\u011flu",
+        "neighbourhood": "Ihsan\u00fclhamit K\u00f6y\u00fc",
+        "id": 141180
+    },
+    {
+        "ilce": "Imamo\u011flu",
+        "neighbourhood": "Imamo\u011flu K\u00f6y\u00fc",
+        "id": 146346
+    },
+    {
+        "ilce": "Imamo\u011flu",
+        "neighbourhood": "Koyunevi K\u00f6y\u00fc",
+        "id": 46386
+    },
+    {
+        "ilce": "Imamo\u011flu",
+        "neighbourhood": "Malihidirli K\u00f6y\u00fc",
+        "id": 46165
+    },
+    {
+        "ilce": "Imamo\u011flu",
+        "neighbourhood": "Otluk K\u00f6y\u00fc",
+        "id": 46282
+    },
+    {
+        "ilce": "Imamo\u011flu",
+        "neighbourhood": "Sayca K\u00f6y\u00fc",
+        "id": 45935
+    },
+    {
+        "ilce": "Imamo\u011flu",
+        "neighbourhood": "Sayge\u00e7it K\u00f6y\u00fc",
+        "id": 45947
+    },
+    {
+        "ilce": "Imamo\u011flu",
+        "neighbourhood": "Sevin\u00e7li K\u00f6y\u00fc",
+        "id": 45889
+    },
+    {
+        "ilce": "Imamo\u011flu",
+        "neighbourhood": "Sokuta\u015f K\u00f6y\u00fc",
+        "id": 46191
+    },
+    {
+        "ilce": "Imamo\u011flu",
+        "neighbourhood": "\u00dc\u00e7tepe K\u00f6y\u00fc",
+        "id": 45169
+    },
+    {
+        "ilce": "Imamo\u011flu",
+        "neighbourhood": "Ufacik\u00f6ren K\u00f6y\u00fc",
+        "id": 45468
+    },
+    {
+        "ilce": "Imamo\u011flu",
+        "neighbourhood": "Ulu\u00e7inar K\u00f6y\u00fc",
+        "id": 46384
+    },
+    {
+        "ilce": "Karaisali",
+        "neighbourhood": "Ak\u00e7ali K\u00f6y\u00fc",
+        "id": 47642
+    },
+    {
+        "ilce": "Karaisali",
+        "neighbourhood": "Akta\u015f K\u00f6y\u00fc",
+        "id": 47876
+    },
+    {
+        "ilce": "Karaisali",
+        "neighbourhood": "Altinova K\u00f6y\u00fc",
+        "id": 47967
+    },
+    {
+        "ilce": "Karaisali",
+        "neighbourhood": "A\u015fa\u011fibelemedik K\u00f6y\u00fc",
+        "id": 142094
+    },
+    {
+        "ilce": "Karaisali",
+        "neighbourhood": "A\u015fa\u011fiy\u00f6r\u00fckler K\u00f6y\u00fc",
+        "id": 146275
+    },
+    {
+        "ilce": "Karaisali",
+        "neighbourhood": "Ayakkif K\u00f6y\u00fc",
+        "id": 143649
+    },
+    {
+        "ilce": "Karaisali",
+        "neighbourhood": "Barakda\u011fi K\u00f6y\u00fc",
+        "id": 48037
+    },
+    {
+        "ilce": "Karaisali",
+        "neighbourhood": "Ba\u015fkif K\u00f6y\u00fc",
+        "id": 47941
+    },
+    {
+        "ilce": "Karaisali",
+        "neighbourhood": "Bekirli K\u00f6y\u00fc",
+        "id": 137675
+    },
+    {
+        "ilce": "Karaisali",
+        "neighbourhood": "Beydemir K\u00f6y\u00fc",
+        "id": 145514
+    },
+    {
+        "ilce": "Karaisali",
+        "neighbourhood": "Bolacali K\u00f6y\u00fc",
+        "id": 47902
+    },
+    {
+        "ilce": "Karaisali",
+        "neighbourhood": "Bucak K\u00f6y\u00fc",
+        "id": 47018
+    },
+    {
+        "ilce": "Karaisali",
+        "neighbourhood": "\u00c7akalli K\u00f6y\u00fc",
+        "id": 47673
+    },
+    {
+        "ilce": "Karaisali",
+        "neighbourhood": "\u00c7atalan K\u00f6y\u00fc",
+        "id": 48080
+    },
+    {
+        "ilce": "Karaisali",
+        "neighbourhood": "\u00c7evlik K\u00f6y\u00fc",
+        "id": 47842
+    },
+    {
+        "ilce": "Karaisali",
+        "neighbourhood": "\u00c7ocuklar K\u00f6y\u00fc",
+        "id": 47609
+    },
+    {
+        "ilce": "Karaisali",
+        "neighbourhood": "\u00c7orlu K\u00f6y\u00fc",
+        "id": 47968
+    },
+    {
+        "ilce": "Karaisali",
+        "neighbourhood": "\u00c7ukur K\u00f6y\u00fc",
+        "id": 47644
+    },
+    {
+        "ilce": "Karaisali",
+        "neighbourhood": "Demir\u00e7it K\u00f6y\u00fc",
+        "id": 47645
+    },
+    {
+        "ilce": "Karaisali",
+        "neighbourhood": "D\u00f6\u015fekevi K\u00f6y\u00fc",
+        "id": 47675
+    },
+    {
+        "ilce": "Karaisali",
+        "neighbourhood": "Durak K\u00f6y\u00fc",
+        "id": 144364
+    },
+    {
+        "ilce": "Karaisali",
+        "neighbourhood": "E\u011flence K\u00f6y\u00fc",
+        "id": 47904
+    },
+    {
+        "ilce": "Karaisali",
+        "neighbourhood": "Emelcik K\u00f6y\u00fc",
+        "id": 48074
+    },
+    {
+        "ilce": "Karaisali",
+        "neighbourhood": "Etekli K\u00f6y\u00fc",
+        "id": 47610
+    },
+    {
+        "ilce": "Karaisali",
+        "neighbourhood": "Fettahli K\u00f6y\u00fc",
+        "id": 142962
+    },
+    {
+        "ilce": "Karaisali",
+        "neighbourhood": "Gildirli K\u00f6y\u00fc",
+        "id": 138401
+    },
+    {
+        "ilce": "Karaisali",
+        "neighbourhood": "G\u00f6khasanli K\u00f6y\u00fc",
+        "id": 48076
+    },
+    {
+        "ilce": "Karaisali",
+        "neighbourhood": "G\u00fcl\u00fc\u015fl\u00fc K\u00f6y\u00fc",
+        "id": 50036
+    },
+    {
+        "ilce": "Karaisali",
+        "neighbourhood": "G\u00fcven\u00e7 K\u00f6y\u00fc",
+        "id": 47843
+    },
+    {
+        "ilce": "Karaisali",
+        "neighbourhood": "Hacili K\u00f6y\u00fc",
+        "id": 143393
+    },
+    {
+        "ilce": "Karaisali",
+        "neighbourhood": "Hacimusali K\u00f6y\u00fc",
+        "id": 47019
+    },
+    {
+        "ilce": "Karaisali",
+        "neighbourhood": "Kaleda\u011fi K\u00f6y\u00fc",
+        "id": 143345
+    },
+    {
+        "ilce": "Karaisali",
+        "neighbourhood": "Kapikaya K\u00f6y\u00fc",
+        "id": 141331
+    },
+    {
+        "ilce": "Karaisali",
+        "neighbourhood": "Karahasanli K\u00f6y\u00fc",
+        "id": 47903
+    },
+    {
+        "ilce": "Karaisali",
+        "neighbourhood": "Karakili\u00e7 K\u00f6y\u00fc",
+        "id": 48077
+    },
+    {
+        "ilce": "Karaisali",
+        "neighbourhood": "Karakuyu K\u00f6y\u00fc",
+        "id": 47943
+    },
+    {
+        "ilce": "Karaisali",
+        "neighbourhood": "Karapinar",
+        "id": 48005
+    },
+    {
+        "ilce": "Karaisali",
+        "neighbourhood": "Kiralan K\u00f6y\u00fc",
+        "id": 48038
+    },
+    {
+        "ilce": "Karaisali",
+        "neighbourhood": "Kirikli K\u00f6y\u00fc",
+        "id": 47020
+    },
+    {
+        "ilce": "Karaisali",
+        "neighbourhood": "Kocaveliler K\u00f6y\u00fc",
+        "id": 48039
+    },
+    {
+        "ilce": "Karaisali",
+        "neighbourhood": "K\u00f6r\u00fckl\u00fc K\u00f6y\u00fc",
+        "id": 47944
+    },
+    {
+        "ilce": "Karaisali",
+        "neighbourhood": "Ku\u015f\u00e7usofulu K\u00f6y\u00fc",
+        "id": 142151
+    },
+    {
+        "ilce": "Karaisali",
+        "neighbourhood": "Kuyucu K\u00f6y\u00fc",
+        "id": 47969
+    },
+    {
+        "ilce": "Karaisali",
+        "neighbourhood": "Kuzgun K\u00f6y\u00fc",
+        "id": 47611
+    },
+    {
+        "ilce": "Karaisali",
+        "neighbourhood": "Mara\u015fli K\u00f6y\u00fc",
+        "id": 47572
+    },
+    {
+        "ilce": "Karaisali",
+        "neighbourhood": "Merkezboztahta K\u00f6y\u00fc",
+        "id": 142668
+    },
+    {
+        "ilce": "Karaisali",
+        "neighbourhood": "Murt\u00e7ukuru K\u00f6y\u00fc",
+        "id": 48040
+    },
+    {
+        "ilce": "Karaisali",
+        "neighbourhood": "Nergizlik K\u00f6y\u00fc",
+        "id": 47612
+    },
+    {
+        "ilce": "Karaisali",
+        "neighbourhood": "Nuhlu K\u00f6y\u00fc",
+        "id": 141838
+    },
+    {
+        "ilce": "Karaisali",
+        "neighbourhood": "\u00d6merli K\u00f6y\u00fc",
+        "id": 47649
+    },
+    {
+        "ilce": "Karaisali",
+        "neighbourhood": "Sadikali K\u00f6y\u00fc",
+        "id": 47021
+    },
+    {
+        "ilce": "Karaisali",
+        "neighbourhood": "Sarimehmetli K\u00f6y\u00fc",
+        "id": 47022
+    },
+    {
+        "ilce": "Karaisali",
+        "neighbourhood": "Saypinar",
+        "id": 47906
+    },
+    {
+        "ilce": "Karaisali",
+        "neighbourhood": "Selampinar",
+        "id": 50266
+    },
+    {
+        "ilce": "Karaisali",
+        "neighbourhood": "Tatik K\u00f6y\u00fc",
+        "id": 47650
+    },
+    {
+        "ilce": "Karaisali",
+        "neighbourhood": "Topakta\u015f K\u00f6y\u00fc",
+        "id": 48041
+    },
+    {
+        "ilce": "Karaisali",
+        "neighbourhood": "Toprakli K\u00f6y\u00fc",
+        "id": 138485
+    },
+    {
+        "ilce": "Karaisali",
+        "neighbourhood": "Torunsolakli K\u00f6y\u00fc",
+        "id": 47844
+    },
+    {
+        "ilce": "Karaisali",
+        "neighbourhood": "T\u00fcmenli K\u00f6y\u00fc",
+        "id": 47877
+    },
+    {
+        "ilce": "Karaisali",
+        "neighbourhood": "Yaziba\u015fi K\u00f6y\u00fc",
+        "id": 48004
+    },
+    {
+        "ilce": "Karata\u015f",
+        "neighbourhood": "Adali",
+        "id": 47613
+    },
+    {
+        "ilce": "Karata\u015f",
+        "neighbourhood": "Bah\u00e7e",
+        "id": 146984
+    },
+    {
+        "ilce": "Karata\u015f",
+        "neighbourhood": "Bebeli",
+        "id": 49947
+    },
+    {
+        "ilce": "Karata\u015f",
+        "neighbourhood": "\u00c7a\u011f\u015firli",
+        "id": 144127
+    },
+    {
+        "ilce": "Karata\u015f",
+        "neighbourhood": "\u00c7akir\u00f6ren",
+        "id": 47972
+    },
+    {
+        "ilce": "Karata\u015f",
+        "neighbourhood": "\u00c7avu\u015flu",
+        "id": 45413
+    },
+    {
+        "ilce": "Karata\u015f",
+        "neighbourhood": "\u00c7imeli",
+        "id": 47878
+    },
+    {
+        "ilce": "Karata\u015f",
+        "neighbourhood": "\u00c7ukurkami\u015f",
+        "id": 48081
+    },
+    {
+        "ilce": "Karata\u015f",
+        "neighbourhood": "Damlapinar",
+        "id": 45920
+    },
+    {
+        "ilce": "Karata\u015f",
+        "neighbourhood": "Develi\u00f6ren",
+        "id": 48082
+    },
+    {
+        "ilce": "Karata\u015f",
+        "neighbourhood": "Dolapli",
+        "id": 47023
+    },
+    {
+        "ilce": "Karata\u015f",
+        "neighbourhood": "G\u00f6lkaya",
+        "id": 143012
+    },
+    {
+        "ilce": "Karata\u015f",
+        "neighbourhood": "Hacihasan",
+        "id": 47947
+    },
+    {
+        "ilce": "Karata\u015f",
+        "neighbourhood": "Hakkibey",
+        "id": 45956
+    },
+    {
+        "ilce": "Karata\u015f",
+        "neighbourhood": "Hasira\u011faci",
+        "id": 45045
+    },
+    {
+        "ilce": "Karata\u015f",
+        "neighbourhood": "Helvaci",
+        "id": 47614
+    },
+    {
+        "ilce": "Karata\u015f",
+        "neighbourhood": "Inneplih\u00fcy\u00fc\u011f\u00fc",
+        "id": 145169
+    },
+    {
+        "ilce": "Karata\u015f",
+        "neighbourhood": "Isahacili",
+        "id": 45128
+    },
+    {
+        "ilce": "Karata\u015f",
+        "neighbourhood": "Iskele",
+        "id": 170160
+    },
+    {
+        "ilce": "Karata\u015f",
+        "neighbourhood": "Karag\u00f6\u00e7er",
+        "id": 44955
+    },
+    {
+        "ilce": "Karata\u015f",
+        "neighbourhood": "Kesik",
+        "id": 45992
+    },
+    {
+        "ilce": "Karata\u015f",
+        "neighbourhood": "Kiremitli",
+        "id": 45039
+    },
+    {
+        "ilce": "Karata\u015f",
+        "neighbourhood": "Kirhasan",
+        "id": 45142
+    },
+    {
+        "ilce": "Karata\u015f",
+        "neighbourhood": "Kiziltahta",
+        "id": 45724
+    },
+    {
+        "ilce": "Karata\u015f",
+        "neighbourhood": "Konakli",
+        "id": 145552
+    },
+    {
+        "ilce": "Karata\u015f",
+        "neighbourhood": "K\u00fc\u00e7\u00fckkarata\u015f",
+        "id": 171313
+    },
+    {
+        "ilce": "Karata\u015f",
+        "neighbourhood": "Meletmez",
+        "id": 45536
+    },
+    {
+        "ilce": "Karata\u015f",
+        "neighbourhood": "Muratli",
+        "id": 139467
+    },
+    {
+        "ilce": "Karata\u015f",
+        "neighbourhood": "Nalkulak",
+        "id": 145825
+    },
+    {
+        "ilce": "Karata\u015f",
+        "neighbourhood": "Oymakli",
+        "id": 45242
+    },
+    {
+        "ilce": "Karata\u015f",
+        "neighbourhood": "Sarimsak",
+        "id": 143048
+    },
+    {
+        "ilce": "Karata\u015f",
+        "neighbourhood": "Sirkenli",
+        "id": 45704
+    },
+    {
+        "ilce": "Karata\u015f",
+        "neighbourhood": "Tabaklar",
+        "id": 45408
+    },
+    {
+        "ilce": "Karata\u015f",
+        "neighbourhood": "Terliksiz",
+        "id": 44739
+    },
+    {
+        "ilce": "Karata\u015f",
+        "neighbourhood": "Toprakli",
+        "id": 45738
+    },
+    {
+        "ilce": "Karata\u015f",
+        "neighbourhood": "Tuzkuyusu",
+        "id": 45361
+    },
+    {
+        "ilce": "Karata\u015f",
+        "neighbourhood": "U\u011furkaya",
+        "id": 45349
+    },
+    {
+        "ilce": "Karata\u015f",
+        "neighbourhood": "Yassi\u00f6ren",
+        "id": 44946
+    },
+    {
+        "ilce": "Karata\u015f",
+        "neighbourhood": "Yemi\u015fli",
+        "id": 45111
+    },
+    {
+        "ilce": "Karata\u015f",
+        "neighbourhood": "Y\u00fczba\u015fi",
+        "id": 45377
+    },
+    {
+        "ilce": "Kozan",
+        "neighbourhood": "Acarmanta\u015f",
+        "id": 45572
+    },
+    {
+        "ilce": "Kozan",
+        "neighbourhood": "A\u011flibo\u011faz",
+        "id": 206726
+    },
+    {
+        "ilce": "Kozan",
+        "neighbourhood": "Akarca",
+        "id": 45750
+    },
+    {
+        "ilce": "Kozan",
+        "neighbourhood": "Ak\u00e7aliu\u015fa\u011fi",
+        "id": 45703
+    },
+    {
+        "ilce": "Kozan",
+        "neighbourhood": "Akdam",
+        "id": 45460
+    },
+    {
+        "ilce": "Kozan",
+        "neighbourhood": "Akkaya",
+        "id": 45207
+    },
+    {
+        "ilce": "Kozan",
+        "neighbourhood": "Alapinar",
+        "id": 45716
+    },
+    {
+        "ilce": "Kozan",
+        "neighbourhood": "Anavarza",
+        "id": 138573
+    },
+    {
+        "ilce": "Kozan",
+        "neighbourhood": "Andil",
+        "id": 141442
+    },
+    {
+        "ilce": "Kozan",
+        "neighbourhood": "Aslanli",
+        "id": 143220
+    },
+    {
+        "ilce": "Kozan",
+        "neighbourhood": "Aslanpa\u015fa",
+        "id": 45269
+    },
+    {
+        "ilce": "Kozan",
+        "neighbourhood": "Aydin",
+        "id": 45428
+    },
+    {
+        "ilce": "Kozan",
+        "neighbourhood": "Ay\u015fehoca",
+        "id": 45578
+    },
+    {
+        "ilce": "Kozan",
+        "neighbourhood": "Ba\u011f\u00f6z\u00fc",
+        "id": 45137
+    },
+    {
+        "ilce": "Kozan",
+        "neighbourhood": "Ba\u011ftepe",
+        "id": 45417
+    },
+    {
+        "ilce": "Kozan",
+        "neighbourhood": "Boztahta",
+        "id": 45122
+    },
+    {
+        "ilce": "Kozan",
+        "neighbourhood": "Bucak",
+        "id": 146508
+    },
+    {
+        "ilce": "Kozan",
+        "neighbourhood": "Bulduklu",
+        "id": 45043
+    },
+    {
+        "ilce": "Kozan",
+        "neighbourhood": "\u00c7amdere",
+        "id": 45423
+    },
+    {
+        "ilce": "Kozan",
+        "neighbourhood": "\u00c7amlarca",
+        "id": 46025
+    },
+    {
+        "ilce": "Kozan",
+        "neighbourhood": "\u00c7andik",
+        "id": 45262
+    },
+    {
+        "ilce": "Kozan",
+        "neighbourhood": "\u00c7elenu\u015fa\u011fi",
+        "id": 45403
+    },
+    {
+        "ilce": "Kozan",
+        "neighbourhood": "\u00c7okak",
+        "id": 45378
+    },
+    {
+        "ilce": "Kozan",
+        "neighbourhood": "\u00c7ukur\u00f6ren",
+        "id": 45796
+    },
+    {
+        "ilce": "Kozan",
+        "neighbourhood": "\u00c7ulluu\u015fa\u011fi",
+        "id": 45162
+    },
+    {
+        "ilce": "Kozan",
+        "neighbourhood": "Cumhuriyet",
+        "id": 45365
+    },
+    {
+        "ilce": "Kozan",
+        "neighbourhood": "\u00c7\u00fcr\u00fckl\u00fc",
+        "id": 45154
+    },
+    {
+        "ilce": "Kozan",
+        "neighbourhood": "Damyeri",
+        "id": 45515
+    },
+    {
+        "ilce": "Kozan",
+        "neighbourhood": "Dikilita\u015f",
+        "id": 45379
+    },
+    {
+        "ilce": "Kozan",
+        "neighbourhood": "Do\u011fanalani",
+        "id": 45253
+    },
+    {
+        "ilce": "Kozan",
+        "neighbourhood": "Duraliu\u015fa\u011fi",
+        "id": 145732
+    },
+    {
+        "ilce": "Kozan",
+        "neighbourhood": "Durmu\u015flu",
+        "id": 45367
+    },
+    {
+        "ilce": "Kozan",
+        "neighbourhood": "D\u00fcza\u011fa\u00e7",
+        "id": 45268
+    },
+    {
+        "ilce": "Kozan",
+        "neighbourhood": "Ergenu\u015fa\u011fi",
+        "id": 45506
+    },
+    {
+        "ilce": "Kozan",
+        "neighbourhood": "Eskikabasakal",
+        "id": 45919
+    },
+    {
+        "ilce": "Kozan",
+        "neighbourhood": "Eskimanta\u015f",
+        "id": 45430
+    },
+    {
+        "ilce": "Kozan",
+        "neighbourhood": "Faydali",
+        "id": 144845
+    },
+    {
+        "ilce": "Kozan",
+        "neighbourhood": "Ferhatli",
+        "id": 45789
+    },
+    {
+        "ilce": "Kozan",
+        "neighbourhood": "Gazik\u00f6y",
+        "id": 144172
+    },
+    {
+        "ilce": "Kozan",
+        "neighbourhood": "Gedikli",
+        "id": 45332
+    },
+    {
+        "ilce": "Kozan",
+        "neighbourhood": "G\u00f6kg\u00f6z",
+        "id": 45751
+    },
+    {
+        "ilce": "Kozan",
+        "neighbourhood": "G\u00f6rbeyaz",
+        "id": 45373
+    },
+    {
+        "ilce": "Kozan",
+        "neighbourhood": "G\u00fcneri",
+        "id": 45774
+    },
+    {
+        "ilce": "Kozan",
+        "neighbourhood": "Hacilar",
+        "id": 141689
+    },
+    {
+        "ilce": "Kozan",
+        "neighbourhood": "Hacimirzali",
+        "id": 141789
+    },
+    {
+        "ilce": "Kozan",
+        "neighbourhood": "Haciu\u015fa\u011fi",
+        "id": 45342
+    },
+    {
+        "ilce": "Kozan",
+        "neighbourhood": "Hamam",
+        "id": 141988
+    },
+    {
+        "ilce": "Kozan",
+        "neighbourhood": "Hen\u00fcz\u00e7akiri",
+        "id": 45461
+    },
+    {
+        "ilce": "Kozan",
+        "neighbourhood": "Idem",
+        "id": 143816
+    },
+    {
+        "ilce": "Kozan",
+        "neighbourhood": "Ilica",
+        "id": 146861
+    },
+    {
+        "ilce": "Kozan",
+        "neighbourhood": "I\u015fikkaya",
+        "id": 46019
+    },
+    {
+        "ilce": "Kozan",
+        "neighbourhood": "I\u015fikli",
+        "id": 45807
+    },
+    {
+        "ilce": "Kozan",
+        "neighbourhood": "Kabaktepe",
+        "id": 45385
+    },
+    {
+        "ilce": "Kozan",
+        "neighbourhood": "Kahveli",
+        "id": 205941
+    },
+    {
+        "ilce": "Kozan",
+        "neighbourhood": "Kalkuma\u00e7",
+        "id": 142196
+    },
+    {
+        "ilce": "Kozan",
+        "neighbourhood": "Kapukaya",
+        "id": 142847
+    },
+    {
+        "ilce": "Kozan",
+        "neighbourhood": "Karabucak",
+        "id": 45232
+    },
+    {
+        "ilce": "Kozan",
+        "neighbourhood": "Karacao\u011flan",
+        "id": 206727
+    },
+    {
+        "ilce": "Kozan",
+        "neighbourhood": "Karaca\u00f6ren",
+        "id": 45958
+    },
+    {
+        "ilce": "Kozan",
+        "neighbourhood": "Karahamzali",
+        "id": 45230
+    },
+    {
+        "ilce": "Kozan",
+        "neighbourhood": "Karanebili",
+        "id": 45999
+    },
+    {
+        "ilce": "Kozan",
+        "neighbourhood": "Kemer",
+        "id": 45752
+    },
+    {
+        "ilce": "Kozan",
+        "neighbourhood": "Kibrislar",
+        "id": 45731
+    },
+    {
+        "ilce": "Kozan",
+        "neighbourhood": "Kizillar",
+        "id": 45380
+    },
+    {
+        "ilce": "Kozan",
+        "neighbourhood": "Kizlarsekizi",
+        "id": 138738
+    },
+    {
+        "ilce": "Kozan",
+        "neighbourhood": "K\u00f6reken",
+        "id": 137501
+    },
+    {
+        "ilce": "Kozan",
+        "neighbourhood": "K\u00f6seli",
+        "id": 45129
+    },
+    {
+        "ilce": "Kozan",
+        "neighbourhood": "Kuytucak",
+        "id": 45364
+    },
+    {
+        "ilce": "Kozan",
+        "neighbourhood": "Kuyubeli",
+        "id": 45762
+    },
+    {
+        "ilce": "Kozan",
+        "neighbourhood": "Kuyuluk",
+        "id": 45775
+    },
+    {
+        "ilce": "Kozan",
+        "neighbourhood": "Mahmutlu",
+        "id": 45959
+    },
+    {
+        "ilce": "Kozan",
+        "neighbourhood": "Mahyalar",
+        "id": 45969
+    },
+    {
+        "ilce": "Kozan",
+        "neighbourhood": "Marange\u00e7ili",
+        "id": 143543
+    },
+    {
+        "ilce": "Kozan",
+        "neighbourhood": "Minnetli",
+        "id": 45994
+    },
+    {
+        "ilce": "Kozan",
+        "neighbourhood": "Or\u00e7an",
+        "id": 45441
+    },
+    {
+        "ilce": "Kozan",
+        "neighbourhood": "\u00d6rendere",
+        "id": 45609
+    },
+    {
+        "ilce": "Kozan",
+        "neighbourhood": "Oru\u00e7lu",
+        "id": 45471
+    },
+    {
+        "ilce": "Kozan",
+        "neighbourhood": "\u00d6zba\u015fi",
+        "id": 45763
+    },
+    {
+        "ilce": "Kozan",
+        "neighbourhood": "Pekmezci",
+        "id": 45954
+    },
+    {
+        "ilce": "Kozan",
+        "neighbourhood": "Postkabasakal",
+        "id": 45720
+    },
+    {
+        "ilce": "Kozan",
+        "neighbourhood": "Salmanli",
+        "id": 46018
+    },
+    {
+        "ilce": "Kozan",
+        "neighbourhood": "\u015eerifli",
+        "id": 45427
+    },
+    {
+        "ilce": "Kozan",
+        "neighbourhood": "\u015eevkiye",
+        "id": 45473
+    },
+    {
+        "ilce": "Kozan",
+        "neighbourhood": "Ta\u015f",
+        "id": 45474
+    },
+    {
+        "ilce": "Kozan",
+        "neighbourhood": "Tepecik\u00f6ren",
+        "id": 45250
+    },
+    {
+        "ilce": "Kozan",
+        "neighbourhood": "Tilan",
+        "id": 142428
+    },
+    {
+        "ilce": "Kozan",
+        "neighbourhood": "Tufanli",
+        "id": 45463
+    },
+    {
+        "ilce": "Kozan",
+        "neighbourhood": "Tufanpa\u015fa",
+        "id": 46138
+    },
+    {
+        "ilce": "Kozan",
+        "neighbourhood": "Turgutlu",
+        "id": 45054
+    },
+    {
+        "ilce": "Kozan",
+        "neighbourhood": "Turun\u00e7lu",
+        "id": 45131
+    },
+    {
+        "ilce": "Kozan",
+        "neighbourhood": "Velicanli",
+        "id": 143307
+    },
+    {
+        "ilce": "Kozan",
+        "neighbourhood": "Yanalerik",
+        "id": 45233
+    },
+    {
+        "ilce": "Kozan",
+        "neighbourhood": "Yarimo\u011flu",
+        "id": 46201
+    },
+    {
+        "ilce": "Kozan",
+        "neighbourhood": "Yassi\u00e7ali",
+        "id": 45368
+    },
+    {
+        "ilce": "Kozan",
+        "neighbourhood": "Yenik\u00f6y",
+        "id": 45783
+    },
+    {
+        "ilce": "Kozan",
+        "neighbourhood": "Yukarige\u00e7ili",
+        "id": 139131
+    },
+    {
+        "ilce": "Kozan",
+        "neighbourhood": "Y\u00fcksek\u00f6ren",
+        "id": 45573
+    },
+    {
+        "ilce": "Kozan",
+        "neighbourhood": "Zerdali",
+        "id": 45647
+    },
+    {
+        "ilce": "Pozanti",
+        "neighbourhood": "Ak\u00e7a",
+        "id": 144793
+    },
+    {
+        "ilce": "Pozanti",
+        "neighbourhood": "Alpu",
+        "id": 46020
+    },
+    {
+        "ilce": "Pozanti",
+        "neighbourhood": "A\u015f\u00e7ibekirli",
+        "id": 45465
+    },
+    {
+        "ilce": "Pozanti",
+        "neighbourhood": "Belemedik",
+        "id": 45995
+    },
+    {
+        "ilce": "Pozanti",
+        "neighbourhood": "B\u00fcr\u00fccek",
+        "id": 144794
+    },
+    {
+        "ilce": "Pozanti",
+        "neighbourhood": "B\u00fcy\u00fcktekir",
+        "id": 146030
+    },
+    {
+        "ilce": "Pozanti",
+        "neighbourhood": "\u00c7amlibel",
+        "id": 44856
+    },
+    {
+        "ilce": "Pozanti",
+        "neighbourhood": "Cumhuriyet",
+        "id": 45245
+    },
+    {
+        "ilce": "Pozanti",
+        "neighbourhood": "Da\u011fdibi",
+        "id": 45234
+    },
+    {
+        "ilce": "Pozanti",
+        "neighbourhood": "Eskikonacik",
+        "id": 45757
+    },
+    {
+        "ilce": "Pozanti",
+        "neighbourhood": "Findikli",
+        "id": 45784
+    },
+    {
+        "ilce": "Pozanti",
+        "neighbourhood": "G\u00f6kbez",
+        "id": 45165
+    },
+    {
+        "ilce": "Pozanti",
+        "neighbourhood": "G\u00f6kbezafet",
+        "id": 137676
+    },
+    {
+        "ilce": "Pozanti",
+        "neighbourhood": "Hamidiye",
+        "id": 45516
+    },
+    {
+        "ilce": "Pozanti",
+        "neighbourhood": "Istiklal",
+        "id": 45375
+    },
+    {
+        "ilce": "Pozanti",
+        "neighbourhood": "Kami\u015fli",
+        "id": 45051
+    },
+    {
+        "ilce": "Pozanti",
+        "neighbourhood": "Karaki\u015flak\u00e7i",
+        "id": 45927
+    },
+    {
+        "ilce": "Pozanti",
+        "neighbourhood": "K\u00fc\u00e7\u00fcktekir",
+        "id": 146563
+    },
+    {
+        "ilce": "Pozanti",
+        "neighbourhood": "\u00d6merli",
+        "id": 45615
+    },
+    {
+        "ilce": "Pozanti",
+        "neighbourhood": "\u00dc\u00e7oluk",
+        "id": 146545
+    },
+    {
+        "ilce": "Pozanti",
+        "neighbourhood": "Ya\u011flita\u015f",
+        "id": 45507
+    },
+    {
+        "ilce": "Pozanti",
+        "neighbourhood": "Yazicak",
+        "id": 148457
+    },
+    {
+        "ilce": "Pozanti",
+        "neighbourhood": "Yenikonacik",
+        "id": 46002
+    },
+    {
+        "ilce": "Pozanti",
+        "neighbourhood": "Yukari Belemedik",
+        "id": 144911
+    },
+    {
+        "ilce": "Pozanti",
+        "neighbourhood": "Zafer",
+        "id": 45091
+    },
+    {
+        "ilce": "Saimbeyli",
+        "neighbourhood": "Aksaa\u011fa\u00e7",
+        "id": 138739
+    },
+    {
+        "ilce": "Saimbeyli",
+        "neighbourhood": "Avcipinari",
+        "id": 143544
+    },
+    {
+        "ilce": "Saimbeyli",
+        "neighbourhood": "Ayvacik",
+        "id": 143651
+    },
+    {
+        "ilce": "Saimbeyli",
+        "neighbourhood": "Beypinari",
+        "id": 144257
+    },
+    {
+        "ilce": "Saimbeyli",
+        "neighbourhood": "\u00c7atak",
+        "id": 128721
+    },
+    {
+        "ilce": "Saimbeyli",
+        "neighbourhood": "\u00c7eralan",
+        "id": 145379
+    },
+    {
+        "ilce": "Saimbeyli",
+        "neighbourhood": "Civikli",
+        "id": 138917
+    },
+    {
+        "ilce": "Saimbeyli",
+        "neighbourhood": "\u00c7orak",
+        "id": 128723
+    },
+    {
+        "ilce": "Saimbeyli",
+        "neighbourhood": "Cumhurlu",
+        "id": 145423
+    },
+    {
+        "ilce": "Saimbeyli",
+        "neighbourhood": "De\u011firmenciu\u015fa\u011fi",
+        "id": 139810
+    },
+    {
+        "ilce": "Saimbeyli",
+        "neighbourhood": "Ey\u00fcpl\u00fc",
+        "id": 144570
+    },
+    {
+        "ilce": "Saimbeyli",
+        "neighbourhood": "G\u00f6kmenler",
+        "id": 144366
+    },
+    {
+        "ilce": "Saimbeyli",
+        "neighbourhood": "G\u00fcrle\u015fen",
+        "id": 142373
+    },
+    {
+        "ilce": "Saimbeyli",
+        "neighbourhood": "Halilbeyli",
+        "id": 145757
+    },
+    {
+        "ilce": "Saimbeyli",
+        "neighbourhood": "Himmetli",
+        "id": 142963
+    },
+    {
+        "ilce": "Saimbeyli",
+        "neighbourhood": "Islam",
+        "id": 145981
+    },
+    {
+        "ilce": "Saimbeyli",
+        "neighbourhood": "Kandilli",
+        "id": 145461
+    },
+    {
+        "ilce": "Saimbeyli",
+        "neighbourhood": "Kapaklikuyu",
+        "id": 141394
+    },
+    {
+        "ilce": "Saimbeyli",
+        "neighbourhood": "Karakuyu",
+        "id": 142231
+    },
+    {
+        "ilce": "Saimbeyli",
+        "neighbourhood": "Kizila\u011fa\u00e7",
+        "id": 139653
+    },
+    {
+        "ilce": "Saimbeyli",
+        "neighbourhood": "Mahmutlu",
+        "id": 144418
+    },
+    {
+        "ilce": "Saimbeyli",
+        "neighbourhood": "Nalta\u015f",
+        "id": 128722
+    },
+    {
+        "ilce": "Saimbeyli",
+        "neighbourhood": "Topallar",
+        "id": 205682
+    },
+    {
+        "ilce": "Saimbeyli",
+        "neighbourhood": "T\u00fcl\u00fc",
+        "id": 139483
+    },
+    {
+        "ilce": "Saimbeyli",
+        "neighbourhood": "Yardibi",
+        "id": 139153
+    },
+    {
+        "ilce": "Saimbeyli",
+        "neighbourhood": "Yenik\u00f6y",
+        "id": 147035
+    },
+    {
+        "ilce": "Sari\u00e7am",
+        "neighbourhood": "Akkuyu K\u00f6y\u00fc",
+        "id": 126663
+    },
+    {
+        "ilce": "Sari\u00e7am",
+        "neighbourhood": "Avcilar K\u00f6y\u00fc",
+        "id": 126643
+    },
+    {
+        "ilce": "Sari\u00e7am",
+        "neighbourhood": "Aydinyurdu",
+        "id": 205917
+    },
+    {
+        "ilce": "Sari\u00e7am",
+        "neighbourhood": "Ayvali",
+        "id": 126681
+    },
+    {
+        "ilce": "Sari\u00e7am",
+        "neighbourhood": "Baklali",
+        "id": 126637
+    },
+    {
+        "ilce": "Sari\u00e7am",
+        "neighbourhood": "Balcali K\u00f6y\u00fc",
+        "id": 126668
+    },
+    {
+        "ilce": "Sari\u00e7am",
+        "neighbourhood": "Bayramhacili",
+        "id": 126642
+    },
+    {
+        "ilce": "Sari\u00e7am",
+        "neighbourhood": "Beyceli",
+        "id": 126647
+    },
+    {
+        "ilce": "Sari\u00e7am",
+        "neighbourhood": "Boynuyo\u011fun",
+        "id": 126676
+    },
+    {
+        "ilce": "Sari\u00e7am",
+        "neighbourhood": "Boztepe",
+        "id": 205982
+    },
+    {
+        "ilce": "Sari\u00e7am",
+        "neighbourhood": "Buruk",
+        "id": 126635
+    },
+    {
+        "ilce": "Sari\u00e7am",
+        "neighbourhood": "B\u00fcy\u00fckbaklali",
+        "id": 204112
+    },
+    {
+        "ilce": "Sari\u00e7am",
+        "neighbourhood": "\u00c7amlibel",
+        "id": 204457
+    },
+    {
+        "ilce": "Sari\u00e7am",
+        "neighbourhood": "\u00c7amlica K\u00f6y\u00fc",
+        "id": 126671
+    },
+    {
+        "ilce": "Sari\u00e7am",
+        "neighbourhood": "\u00c7arkipare",
+        "id": 126665
+    },
+    {
+        "ilce": "Sari\u00e7am",
+        "neighbourhood": "\u00c7ayli K\u00f6y\u00fc",
+        "id": 126649
+    },
+    {
+        "ilce": "Sari\u00e7am",
+        "neighbourhood": "Cerenli K\u00f6y\u00fc",
+        "id": 126644
+    },
+    {
+        "ilce": "Sari\u00e7am",
+        "neighbourhood": "\u00c7i\u00e7ekli K\u00f6y\u00fc",
+        "id": 126675
+    },
+    {
+        "ilce": "Sari\u00e7am",
+        "neighbourhood": "Cihadiye K\u00f6y\u00fc",
+        "id": 126667
+    },
+    {
+        "ilce": "Sari\u00e7am",
+        "neighbourhood": "\u00c7inarli",
+        "id": 126639
+    },
+    {
+        "ilce": "Sari\u00e7am",
+        "neighbourhood": "\u00c7iri\u015fgedi\u011fi K\u00f6y\u00fc",
+        "id": 126660
+    },
+    {
+        "ilce": "Sari\u00e7am",
+        "neighbourhood": "Cumhuriyet",
+        "id": 206847
+    },
+    {
+        "ilce": "Sari\u00e7am",
+        "neighbourhood": "Da\u011fci",
+        "id": 126658
+    },
+    {
+        "ilce": "Sari\u00e7am",
+        "neighbourhood": "Dedeler K\u00f6y\u00fc",
+        "id": 126655
+    },
+    {
+        "ilce": "Sari\u00e7am",
+        "neighbourhood": "Dutluca K\u00f6y\u00fc",
+        "id": 126669
+    },
+    {
+        "ilce": "Sari\u00e7am",
+        "neighbourhood": "Eflak K\u00f6y\u00fc",
+        "id": 126670
+    },
+    {
+        "ilce": "Sari\u00e7am",
+        "neighbourhood": "Egeciu\u015fa\u011fi K\u00f6y\u00fc",
+        "id": 126666
+    },
+    {
+        "ilce": "Sari\u00e7am",
+        "neighbourhood": "Ertu\u011frulgazi K\u00f6y\u00fc",
+        "id": 206554
+    },
+    {
+        "ilce": "Sari\u00e7am",
+        "neighbourhood": "G\u00f6kbuket K\u00f6y\u00fc",
+        "id": 126672
+    },
+    {
+        "ilce": "Sari\u00e7am",
+        "neighbourhood": "G\u00f6ztepe",
+        "id": 126653
+    },
+    {
+        "ilce": "Sari\u00e7am",
+        "neighbourhood": "G\u00fcbe K\u00f6y\u00fc",
+        "id": 126680
+    },
+    {
+        "ilce": "Sari\u00e7am",
+        "neighbourhood": "Hakkibeyli K\u00f6y\u00fc",
+        "id": 126646
+    },
+    {
+        "ilce": "Sari\u00e7am",
+        "neighbourhood": "Hasanbeyli K\u00f6y\u00fc",
+        "id": 126641
+    },
+    {
+        "ilce": "Sari\u00e7am",
+        "neighbourhood": "Hocalli K\u00f6y\u00fc",
+        "id": 126662
+    },
+    {
+        "ilce": "Sari\u00e7am",
+        "neighbourhood": "Incirlik",
+        "id": 126638
+    },
+    {
+        "ilce": "Sari\u00e7am",
+        "neighbourhood": "Istiklal",
+        "id": 206848
+    },
+    {
+        "ilce": "Sari\u00e7am",
+        "neighbourhood": "Kara \u00d6merli K\u00f6y\u00fc",
+        "id": 126664
+    },
+    {
+        "ilce": "Sari\u00e7am",
+        "neighbourhood": "Karayusuflu K\u00f6y\u00fc",
+        "id": 126683
+    },
+    {
+        "ilce": "Sari\u00e7am",
+        "neighbourhood": "Kargakeke\u00e7 K\u00f6y\u00fc",
+        "id": 126654
+    },
+    {
+        "ilce": "Sari\u00e7am",
+        "neighbourhood": "Karlik K\u00f6y\u00fc",
+        "id": 126652
+    },
+    {
+        "ilce": "Sari\u00e7am",
+        "neighbourhood": "Kar\u015fiyaka",
+        "id": 204456
+    },
+    {
+        "ilce": "Sari\u00e7am",
+        "neighbourhood": "Ka\u015fobasi",
+        "id": 206849
+    },
+    {
+        "ilce": "Sari\u00e7am",
+        "neighbourhood": "Kilba\u015f K\u00f6y\u00fc",
+        "id": 126678
+    },
+    {
+        "ilce": "Sari\u00e7am",
+        "neighbourhood": "Kili\u00e7li K\u00f6y\u00fc",
+        "id": 126651
+    },
+    {
+        "ilce": "Sari\u00e7am",
+        "neighbourhood": "Kizilka\u015f K\u00f6y\u00fc",
+        "id": 126656
+    },
+    {
+        "ilce": "Sari\u00e7am",
+        "neighbourhood": "K\u00f6sefakili K\u00f6y\u00fc",
+        "id": 140177
+    },
+    {
+        "ilce": "Sari\u00e7am",
+        "neighbourhood": "K\u00fc\u00e7\u00fckbaklali",
+        "id": 204111
+    },
+    {
+        "ilce": "Sari\u00e7am",
+        "neighbourhood": "Maltepe",
+        "id": 205983
+    },
+    {
+        "ilce": "Sari\u00e7am",
+        "neighbourhood": "Mehmetakifersoy",
+        "id": 204877
+    },
+    {
+        "ilce": "Sari\u00e7am",
+        "neighbourhood": "Menek\u015fe K\u00f6y\u00fc",
+        "id": 126673
+    },
+    {
+        "ilce": "Sari\u00e7am",
+        "neighbourhood": "Misis(Yakapinar)",
+        "id": 205134
+    },
+    {
+        "ilce": "Sari\u00e7am",
+        "neighbourhood": "M\u00fcminli",
+        "id": 126648
+    },
+    {
+        "ilce": "Sari\u00e7am",
+        "neighbourhood": "Mustafalar K\u00f6y\u00fc",
+        "id": 126679
+    },
+    {
+        "ilce": "Sari\u00e7am",
+        "neighbourhood": "Mutlu",
+        "id": 126650
+    },
+    {
+        "ilce": "Sari\u00e7am",
+        "neighbourhood": "Remzio\u011fuzarik",
+        "id": 204878
+    },
+    {
+        "ilce": "Sari\u00e7am",
+        "neighbourhood": "Sari\u00e7am K\u00f6y\u00fc",
+        "id": 126661
+    },
+    {
+        "ilce": "Sari\u00e7am",
+        "neighbourhood": "\u015eevketiye K\u00f6y\u00fc",
+        "id": 126674
+    },
+    {
+        "ilce": "Sari\u00e7am",
+        "neighbourhood": "Sofulu",
+        "id": 126677
+    },
+    {
+        "ilce": "Sari\u00e7am",
+        "neighbourhood": "Suluca",
+        "id": 126645
+    },
+    {
+        "ilce": "Sari\u00e7am",
+        "neighbourhood": "Turun\u00e7lu K\u00f6y\u00fc",
+        "id": 126659
+    },
+    {
+        "ilce": "Sari\u00e7am",
+        "neighbourhood": "Ya\u011fizlar K\u00f6y\u00fc",
+        "id": 126657
+    },
+    {
+        "ilce": "Sari\u00e7am",
+        "neighbourhood": "Yarimca K\u00f6y\u00fc",
+        "id": 126682
+    },
+    {
+        "ilce": "Sari\u00e7am",
+        "neighbourhood": "Yeniyayla K\u00f6y\u00fc",
+        "id": 126640
+    },
+    {
+        "ilce": "Sari\u00e7am",
+        "neighbourhood": "Yildirimbeyazit",
+        "id": 204879
+    },
+    {
+        "ilce": "Sari\u00e7am",
+        "neighbourhood": "Y\u00fcrekli",
+        "id": 126636
+    },
+    {
+        "ilce": "Seyhan",
+        "neighbourhood": "Abidinpa\u015fa \u00c7iftli\u011fi",
+        "id": 126177
+    },
+    {
+        "ilce": "Seyhan",
+        "neighbourhood": "Akkapi",
+        "id": 126178
+    },
+    {
+        "ilce": "Seyhan",
+        "neighbourhood": "Alidede",
+        "id": 126179
+    },
+    {
+        "ilce": "Seyhan",
+        "neighbourhood": "Arslandami",
+        "id": 126176
+    },
+    {
+        "ilce": "Seyhan",
+        "neighbourhood": "Bah\u00e7e\u015fehir",
+        "id": 10042
+    },
+    {
+        "ilce": "Seyhan",
+        "neighbourhood": "B\u00fcy\u00fck \u00c7ildirim",
+        "id": 126214
+    },
+    {
+        "ilce": "Seyhan",
+        "neighbourhood": "B\u00fcy\u00fck Dikili",
+        "id": 126167
+    },
+    {
+        "ilce": "Seyhan",
+        "neighbourhood": "Camuzcu",
+        "id": 126180
+    },
+    {
+        "ilce": "Seyhan",
+        "neighbourhood": "\u00c7aput\u00e7u",
+        "id": 126181
+    },
+    {
+        "ilce": "Seyhan",
+        "neighbourhood": "Cemalpa\u015fa",
+        "id": 126160
+    },
+    {
+        "ilce": "Seyhan",
+        "neighbourhood": "\u00c7inarli",
+        "id": 126182
+    },
+    {
+        "ilce": "Seyhan",
+        "neighbourhood": "Dervi\u015fli",
+        "id": 126183
+    },
+    {
+        "ilce": "Seyhan",
+        "neighbourhood": "D\u00f6rta\u011fa\u00e7",
+        "id": 126184
+    },
+    {
+        "ilce": "Seyhan",
+        "neighbourhood": "D\u00f6\u015feme",
+        "id": 126209
+    },
+    {
+        "ilce": "Seyhan",
+        "neighbourhood": "G\u00f6k\u00e7eler",
+        "id": 126216
+    },
+    {
+        "ilce": "Seyhan",
+        "neighbourhood": "G\u00f6lba\u015fi",
+        "id": 203442
+    },
+    {
+        "ilce": "Seyhan",
+        "neighbourhood": "G\u00fcrselpa\u015fa",
+        "id": 180672
+    },
+    {
+        "ilce": "Seyhan",
+        "neighbourhood": "Hadirli",
+        "id": 126185
+    },
+    {
+        "ilce": "Seyhan",
+        "neighbourhood": "Hanedan",
+        "id": 126186
+    },
+    {
+        "ilce": "Seyhan",
+        "neighbourhood": "H\u00fcrriyet",
+        "id": 126187
+    },
+    {
+        "ilce": "Seyhan",
+        "neighbourhood": "Ikibinevler",
+        "id": 10032
+    },
+    {
+        "ilce": "Seyhan",
+        "neighbourhood": "Istiklal",
+        "id": 126210
+    },
+    {
+        "ilce": "Seyhan",
+        "neighbourhood": "Kanal\u00fcst\u00fc",
+        "id": 126208
+    },
+    {
+        "ilce": "Seyhan",
+        "neighbourhood": "Karakuyu",
+        "id": 126169
+    },
+    {
+        "ilce": "Seyhan",
+        "neighbourhood": "Karalarbuca\u011fiyoluba\u011flar",
+        "id": 126159
+    },
+    {
+        "ilce": "Seyhan",
+        "neighbourhood": "Karasoku",
+        "id": 126188
+    },
+    {
+        "ilce": "Seyhan",
+        "neighbourhood": "Karayusuflu",
+        "id": 126189
+    },
+    {
+        "ilce": "Seyhan",
+        "neighbourhood": "Kayaliba\u011f",
+        "id": 126190
+    },
+    {
+        "ilce": "Seyhan",
+        "neighbourhood": "Kayi\u015fli",
+        "id": 126191
+    },
+    {
+        "ilce": "Seyhan",
+        "neighbourhood": "Kocavezir",
+        "id": 126192
+    },
+    {
+        "ilce": "Seyhan",
+        "neighbourhood": "K\u00f6yl\u00fco\u011flu",
+        "id": 126194
+    },
+    {
+        "ilce": "Seyhan",
+        "neighbourhood": "Koyuncu",
+        "id": 126193
+    },
+    {
+        "ilce": "Seyhan",
+        "neighbourhood": "K\u00fc\u00e7\u00fck \u00c7ildirim",
+        "id": 126215
+    },
+    {
+        "ilce": "Seyhan",
+        "neighbourhood": "K\u00fc\u00e7\u00fck Dikili",
+        "id": 126168
+    },
+    {
+        "ilce": "Seyhan",
+        "neighbourhood": "Kurtulu\u015f",
+        "id": 126157
+    },
+    {
+        "ilce": "Seyhan",
+        "neighbourhood": "Kuruk\u00f6pr\u00fc",
+        "id": 126195
+    },
+    {
+        "ilce": "Seyhan",
+        "neighbourhood": "Kuyumcular",
+        "id": 126165
+    },
+    {
+        "ilce": "Seyhan",
+        "neighbourhood": "Mestanzade",
+        "id": 126196
+    },
+    {
+        "ilce": "Seyhan",
+        "neighbourhood": "Midik",
+        "id": 126197
+    },
+    {
+        "ilce": "Seyhan",
+        "neighbourhood": "Mirza\u00e7elebi",
+        "id": 126198
+    },
+    {
+        "ilce": "Seyhan",
+        "neighbourhood": "M\u00fcrselo\u011flu",
+        "id": 126199
+    },
+    {
+        "ilce": "Seyhan",
+        "neighbourhood": "Re\u015fatbey",
+        "id": 126200
+    },
+    {
+        "ilce": "Seyhan",
+        "neighbourhood": "\u015eakirpa\u015fa",
+        "id": 126211
+    },
+    {
+        "ilce": "Seyhan",
+        "neighbourhood": "Salmanbeyli",
+        "id": 126201
+    },
+    {
+        "ilce": "Seyhan",
+        "neighbourhood": "Sari Hamzali",
+        "id": 126213
+    },
+    {
+        "ilce": "Seyhan",
+        "neighbourhood": "Sarihu\u011flar",
+        "id": 126171
+    },
+    {
+        "ilce": "Seyhan",
+        "neighbourhood": "Sariyakup",
+        "id": 126202
+    },
+    {
+        "ilce": "Seyhan",
+        "neighbourhood": "Sucuzade",
+        "id": 126203
+    },
+    {
+        "ilce": "Seyhan",
+        "neighbourhood": "Tepeba\u011f",
+        "id": 126204
+    },
+    {
+        "ilce": "Seyhan",
+        "neighbourhood": "T\u00fcrkoca\u011fi",
+        "id": 126205
+    },
+    {
+        "ilce": "Seyhan",
+        "neighbourhood": "U\u00e7akalani",
+        "id": 126212
+    },
+    {
+        "ilce": "Seyhan",
+        "neighbourhood": "Ulucami",
+        "id": 126206
+    },
+    {
+        "ilce": "Seyhan",
+        "neighbourhood": "Yalmanli",
+        "id": 126207
+    },
+    {
+        "ilce": "Seyhan",
+        "neighbourhood": "Yenimahalle",
+        "id": 10033
+    },
+    {
+        "ilce": "Seyhan",
+        "neighbourhood": "Ye\u015filyurt",
+        "id": 204715
+    },
+    {
+        "ilce": "Seyhan",
+        "neighbourhood": "Yolge\u00e7en",
+        "id": 126217
+    },
+    {
+        "ilce": "Seyhan",
+        "neighbourhood": "Zeytinli",
+        "id": 126172
+    },
+    {
+        "ilce": "Seyhan",
+        "neighbourhood": "Zincirliba\u011flar",
+        "id": 126166
+    },
+    {
+        "ilce": "Tufanbeyli",
+        "neighbourhood": "Ak\u00e7al",
+        "id": 45739
+    },
+    {
+        "ilce": "Tufanbeyli",
+        "neighbourhood": "Akpinar",
+        "id": 45366
+    },
+    {
+        "ilce": "Tufanbeyli",
+        "neighbourhood": "Ayvat",
+        "id": 44947
+    },
+    {
+        "ilce": "Tufanbeyli",
+        "neighbourhood": "Bah\u00e7elievler",
+        "id": 138775
+    },
+    {
+        "ilce": "Tufanbeyli",
+        "neighbourhood": "Bolatpinar",
+        "id": 140468
+    },
+    {
+        "ilce": "Tufanbeyli",
+        "neighbourhood": "\u00c7atal\u00e7am",
+        "id": 45961
+    },
+    {
+        "ilce": "Tufanbeyli",
+        "neighbourhood": "\u00c7ukurki\u015fla",
+        "id": 46031
+    },
+    {
+        "ilce": "Tufanbeyli",
+        "neighbourhood": "Cumhuriyet",
+        "id": 46035
+    },
+    {
+        "ilce": "Tufanbeyli",
+        "neighbourhood": "Damlali",
+        "id": 45189
+    },
+    {
+        "ilce": "Tufanbeyli",
+        "neighbourhood": "Demiroluk",
+        "id": 45246
+    },
+    {
+        "ilce": "Tufanbeyli",
+        "neighbourhood": "Do\u011fanbeyli",
+        "id": 46202
+    },
+    {
+        "ilce": "Tufanbeyli",
+        "neighbourhood": "Do\u011fanli",
+        "id": 44948
+    },
+    {
+        "ilce": "Tufanbeyli",
+        "neighbourhood": "Elemanli",
+        "id": 146292
+    },
+    {
+        "ilce": "Tufanbeyli",
+        "neighbourhood": "Esentepe",
+        "id": 146522
+    },
+    {
+        "ilce": "Tufanbeyli",
+        "neighbourhood": "Evci",
+        "id": 45381
+    },
+    {
+        "ilce": "Tufanbeyli",
+        "neighbourhood": "Fatmakuyu",
+        "id": 45150
+    },
+    {
+        "ilce": "Tufanbeyli",
+        "neighbourhood": "G\u00fczelim",
+        "id": 45104
+    },
+    {
+        "ilce": "Tufanbeyli",
+        "neighbourhood": "Hanyeri",
+        "id": 45923
+    },
+    {
+        "ilce": "Tufanbeyli",
+        "neighbourhood": "I\u011fdebel",
+        "id": 45446
+    },
+    {
+        "ilce": "Tufanbeyli",
+        "neighbourhood": "Istiklal",
+        "id": 45339
+    },
+    {
+        "ilce": "Tufanbeyli",
+        "neighbourhood": "Karsavuran",
+        "id": 138844
+    },
+    {
+        "ilce": "Tufanbeyli",
+        "neighbourhood": "Kayapinar",
+        "id": 45936
+    },
+    {
+        "ilce": "Tufanbeyli",
+        "neighbourhood": "Kayarcik",
+        "id": 144912
+    },
+    {
+        "ilce": "Tufanbeyli",
+        "neighbourhood": "Kirazliyurt",
+        "id": 45466
+    },
+    {
+        "ilce": "Tufanbeyli",
+        "neighbourhood": "Ko\u00e7ca\u011fiz",
+        "id": 140765
+    },
+    {
+        "ilce": "Tufanbeyli",
+        "neighbourhood": "Ortak\u00f6y",
+        "id": 45418
+    },
+    {
+        "ilce": "Tufanbeyli",
+        "neighbourhood": "Pekmezli",
+        "id": 45447
+    },
+    {
+        "ilce": "Tufanbeyli",
+        "neighbourhood": "Pinarlar",
+        "id": 45943
+    },
+    {
+        "ilce": "Tufanbeyli",
+        "neighbourhood": "\u015ear",
+        "id": 146692
+    },
+    {
+        "ilce": "Tufanbeyli",
+        "neighbourhood": "Ta\u015fpinar",
+        "id": 45944
+    },
+    {
+        "ilce": "Tufanbeyli",
+        "neighbourhood": "Tozlu",
+        "id": 45351
+    },
+    {
+        "ilce": "Tufanbeyli",
+        "neighbourhood": "Yamanli",
+        "id": 45934
+    },
+    {
+        "ilce": "Tufanbeyli",
+        "neighbourhood": "Yenicami",
+        "id": 45452
+    },
+    {
+        "ilce": "Tufanbeyli",
+        "neighbourhood": "Ye\u015filova",
+        "id": 45978
+    },
+    {
+        "ilce": "Yumurtalik",
+        "neighbourhood": "Akdeniz",
+        "id": 144586
+    },
+    {
+        "ilce": "Yumurtalik",
+        "neighbourhood": "Akyuva",
+        "id": 45963
+    },
+    {
+        "ilce": "Yumurtalik",
+        "neighbourhood": "Asmali",
+        "id": 45729
+    },
+    {
+        "ilce": "Yumurtalik",
+        "neighbourhood": "Ayas",
+        "id": 142244
+    },
+    {
+        "ilce": "Yumurtalik",
+        "neighbourhood": "Aydin",
+        "id": 45219
+    },
+    {
+        "ilce": "Yumurtalik",
+        "neighbourhood": "Ayvalik",
+        "id": 45477
+    },
+    {
+        "ilce": "Yumurtalik",
+        "neighbourhood": "Demirta\u015f",
+        "id": 45203
+    },
+    {
+        "ilce": "Yumurtalik",
+        "neighbourhood": "Dervi\u015fiye",
+        "id": 45717
+    },
+    {
+        "ilce": "Yumurtalik",
+        "neighbourhood": "Deveciu\u015fa\u011fi",
+        "id": 45605
+    },
+    {
+        "ilce": "Yumurtalik",
+        "neighbourhood": "Forlar-G\u00f6be\u00f6ren",
+        "id": 140469
+    },
+    {
+        "ilce": "Yumurtalik",
+        "neighbourhood": "G\u00f6lovasi",
+        "id": 45479
+    },
+    {
+        "ilce": "Yumurtalik",
+        "neighbourhood": "Hamzali",
+        "id": 46140
+    },
+    {
+        "ilce": "Yumurtalik",
+        "neighbourhood": "Haylazli",
+        "id": 45582
+    },
+    {
+        "ilce": "Yumurtalik",
+        "neighbourhood": "Hunutlu",
+        "id": 141443
+    },
+    {
+        "ilce": "Yumurtalik",
+        "neighbourhood": "Kaldirim",
+        "id": 45794
+    },
+    {
+        "ilce": "Yumurtalik",
+        "neighbourhood": "Karahacili",
+        "id": 45610
+    },
+    {
+        "ilce": "Yumurtalik",
+        "neighbourhood": "Kemalpa\u015fa",
+        "id": 139132
+    },
+    {
+        "ilce": "Yumurtalik",
+        "neighbourhood": "Kirmizidam",
+        "id": 144367
+    },
+    {
+        "ilce": "Yumurtalik",
+        "neighbourhood": "Narli\u00f6ren",
+        "id": 45981
+    },
+    {
+        "ilce": "Yumurtalik",
+        "neighbourhood": "\u00d6ren",
+        "id": 142848
+    },
+    {
+        "ilce": "Yumurtalik",
+        "neighbourhood": "Ramazanli",
+        "id": 139643
+    },
+    {
+        "ilce": "Yumurtalik",
+        "neighbourhood": "Sadiye",
+        "id": 146845
+    },
+    {
+        "ilce": "Yumurtalik",
+        "neighbourhood": "\u015eeyhganem",
+        "id": 145525
+    },
+    {
+        "ilce": "Yumurtalik",
+        "neighbourhood": "Tahiriye",
+        "id": 143652
+    },
+    {
+        "ilce": "Yumurtalik",
+        "neighbourhood": "Yenik\u00f6y",
+        "id": 45670
+    },
+    {
+        "ilce": "Yumurtalik",
+        "neighbourhood": "Yumurtalik",
+        "id": 45386
+    },
+    {
+        "ilce": "Yumurtalik",
+        "neighbourhood": "Zeytinbeli",
+        "id": 45102
+    },
+    {
+        "ilce": "Y\u00fcre\u011fir",
+        "neighbourhood": "Abdio\u011flu",
+        "id": 126686
+    },
+    {
+        "ilce": "Y\u00fcre\u011fir",
+        "neighbourhood": "A\u011fzib\u00fcy\u00fck",
+        "id": 126691
+    },
+    {
+        "ilce": "Y\u00fcre\u011fir",
+        "neighbourhood": "Akdam",
+        "id": 126688
+    },
+    {
+        "ilce": "Y\u00fcre\u011fir",
+        "neighbourhood": "Akpinar",
+        "id": 126689
+    },
+    {
+        "ilce": "Y\u00fcre\u011fir",
+        "neighbourhood": "Ali Hocali",
+        "id": 126728
+    },
+    {
+        "ilce": "Y\u00fcre\u011fir",
+        "neighbourhood": "Araplar(Sa\u011fdi\u00e7li)",
+        "id": 126687
+    },
+    {
+        "ilce": "Y\u00fcre\u011fir",
+        "neighbourhood": "Aydincik",
+        "id": 126690
+    },
+    {
+        "ilce": "Y\u00fcre\u011fir",
+        "neighbourhood": "Balcali",
+        "id": 204479
+    },
+    {
+        "ilce": "Y\u00fcre\u011fir",
+        "neighbourhood": "Bel\u00f6ren",
+        "id": 126692
+    },
+    {
+        "ilce": "Y\u00fcre\u011fir",
+        "neighbourhood": "Beyk\u00f6y",
+        "id": 145596
+    },
+    {
+        "ilce": "Y\u00fcre\u011fir",
+        "neighbourhood": "\u00c7a\u011firkanli",
+        "id": 126695
+    },
+    {
+        "ilce": "Y\u00fcre\u011fir",
+        "neighbourhood": "Camili",
+        "id": 126694
+    },
+    {
+        "ilce": "Y\u00fcre\u011fir",
+        "neighbourhood": "\u00c7amlibel",
+        "id": 181275
+    },
+    {
+        "ilce": "Y\u00fcre\u011fir",
+        "neighbourhood": "\u00c7elemli",
+        "id": 126697
+    },
+    {
+        "ilce": "Y\u00fcre\u011fir",
+        "neighbourhood": "Cine",
+        "id": 126693
+    },
+    {
+        "ilce": "Y\u00fcre\u011fir",
+        "neighbourhood": "Cirrik",
+        "id": 145422
+    },
+    {
+        "ilce": "Y\u00fcre\u011fir",
+        "neighbourhood": "\u00c7otlu",
+        "id": 126696
+    },
+    {
+        "ilce": "Y\u00fcre\u011fir",
+        "neighbourhood": "Cumhuriyet",
+        "id": 126684
+    },
+    {
+        "ilce": "Y\u00fcre\u011fir",
+        "neighbourhood": "Da\u011fci",
+        "id": 204564
+    },
+    {
+        "ilce": "Y\u00fcre\u011fir",
+        "neighbourhood": "Dani\u015fment",
+        "id": 126698
+    },
+    {
+        "ilce": "Y\u00fcre\u011fir",
+        "neighbourhood": "Dedepinari",
+        "id": 126699
+    },
+    {
+        "ilce": "Y\u00fcre\u011fir",
+        "neighbourhood": "Denizkuyusu",
+        "id": 126700
+    },
+    {
+        "ilce": "Y\u00fcre\u011fir",
+        "neighbourhood": "E\u011fria\u011fa\u00e7",
+        "id": 47845
+    },
+    {
+        "ilce": "Y\u00fcre\u011fir",
+        "neighbourhood": "Frenko\u011flu(Esenler)",
+        "id": 126701
+    },
+    {
+        "ilce": "Y\u00fcre\u011fir",
+        "neighbourhood": "Ge\u00e7itli/Cumhuriyet",
+        "id": 206878
+    },
+    {
+        "ilce": "Y\u00fcre\u011fir",
+        "neighbourhood": "Gemisura(D\u00fczce)",
+        "id": 126702
+    },
+    {
+        "ilce": "Y\u00fcre\u011fir",
+        "neighbourhood": "G\u00f6k\u00e7eli",
+        "id": 47946
+    },
+    {
+        "ilce": "Y\u00fcre\u011fir",
+        "neighbourhood": "G\u00f6kvelio\u011flu",
+        "id": 126703
+    },
+    {
+        "ilce": "Y\u00fcre\u011fir",
+        "neighbourhood": "G\u00fcm\u00fc\u015fyazi",
+        "id": 45341
+    },
+    {
+        "ilce": "Y\u00fcre\u011fir",
+        "neighbourhood": "Haci Ali",
+        "id": 126729
+    },
+    {
+        "ilce": "Y\u00fcre\u011fir",
+        "neighbourhood": "Havraniye(Ge\u00e7itli)",
+        "id": 126704
+    },
+    {
+        "ilce": "Y\u00fcre\u011fir",
+        "neighbourhood": "Havutlu",
+        "id": 126705
+    },
+    {
+        "ilce": "Y\u00fcre\u011fir",
+        "neighbourhood": "Herekli",
+        "id": 126706
+    },
+    {
+        "ilce": "Y\u00fcre\u011fir",
+        "neighbourhood": "Incirlik K\u00f6y\u00fc",
+        "id": 205327
+    },
+    {
+        "ilce": "Y\u00fcre\u011fir",
+        "neighbourhood": "Innapli(Yukari\u00e7i\u00e7ekli)",
+        "id": 126708
+    },
+    {
+        "ilce": "Y\u00fcre\u011fir",
+        "neighbourhood": "Ismaliye(K\u00f6kl\u00fcce)",
+        "id": 126707
+    },
+    {
+        "ilce": "Y\u00fcre\u011fir",
+        "neighbourhood": "Kadik\u00f6y",
+        "id": 126713
+    },
+    {
+        "ilce": "Y\u00fcre\u011fir",
+        "neighbourhood": "Kami\u015fli",
+        "id": 45226
+    },
+    {
+        "ilce": "Y\u00fcre\u011fir",
+        "neighbourhood": "Kapulu",
+        "id": 126712
+    },
+    {
+        "ilce": "Y\u00fcre\u011fir",
+        "neighbourhood": "Kar\u015fiyaka",
+        "id": 126633
+    },
+    {
+        "ilce": "Y\u00fcre\u011fir",
+        "neighbourhood": "Kayarli",
+        "id": 126709
+    },
+    {
+        "ilce": "Y\u00fcre\u011fir",
+        "neighbourhood": "Kiremithane",
+        "id": 204010
+    },
+    {
+        "ilce": "Y\u00fcre\u011fir",
+        "neighbourhood": "K\u00f6pr\u00fcg\u00f6z\u00fc",
+        "id": 45209
+    },
+    {
+        "ilce": "Y\u00fcre\u011fir",
+        "neighbourhood": "K\u00f6pr\u00fcl\u00fc",
+        "id": 126634
+    },
+    {
+        "ilce": "Y\u00fcre\u011fir",
+        "neighbourhood": "Kumrulu(Karaahmetli)",
+        "id": 126711
+    },
+    {
+        "ilce": "Y\u00fcre\u011fir",
+        "neighbourhood": "K\u00fct\u00fckl\u00fc",
+        "id": 126710
+    },
+    {
+        "ilce": "Y\u00fcre\u011fir",
+        "neighbourhood": "Mihmandar(Do\u011fankent)",
+        "id": 126715
+    },
+    {
+        "ilce": "Y\u00fcre\u011fir",
+        "neighbourhood": "Misis(Yakapinar)",
+        "id": 126714
+    },
+    {
+        "ilce": "Y\u00fcre\u011fir",
+        "neighbourhood": "Mutlu",
+        "id": 204686
+    },
+    {
+        "ilce": "Y\u00fcre\u011fir",
+        "neighbourhood": "Nacarli(Ka\u015flica)",
+        "id": 126716
+    },
+    {
+        "ilce": "Y\u00fcre\u011fir",
+        "neighbourhood": "Pa\u015fak\u00f6y",
+        "id": 126717
+    },
+    {
+        "ilce": "Y\u00fcre\u011fir",
+        "neighbourhood": "\u015eahina\u011fa",
+        "id": 126719
+    },
+    {
+        "ilce": "Y\u00fcre\u011fir",
+        "neighbourhood": "\u015eehit Erkut Akbay",
+        "id": 181120
+    },
+    {
+        "ilce": "Y\u00fcre\u011fir",
+        "neighbourhood": "Seyhan",
+        "id": 126685
+    },
+    {
+        "ilce": "Y\u00fcre\u011fir",
+        "neighbourhood": "\u015eeyhmurat",
+        "id": 126720
+    },
+    {
+        "ilce": "Y\u00fcre\u011fir",
+        "neighbourhood": "Solakli",
+        "id": 126718
+    },
+    {
+        "ilce": "Y\u00fcre\u011fir",
+        "neighbourhood": "Suluca",
+        "id": 204670
+    },
+    {
+        "ilce": "Y\u00fcre\u011fir",
+        "neighbourhood": "Ta\u015f\u00e7i",
+        "id": 126722
+    },
+    {
+        "ilce": "Y\u00fcre\u011fir",
+        "neighbourhood": "Tuzsuzo\u011flu",
+        "id": 126721
+    },
+    {
+        "ilce": "Y\u00fcre\u011fir",
+        "neighbourhood": "Ulubatli Hasan",
+        "id": 181244
+    },
+    {
+        "ilce": "Y\u00fcre\u011fir",
+        "neighbourhood": "Yalnizca",
+        "id": 45147
+    },
+    {
+        "ilce": "Y\u00fcre\u011fir",
+        "neighbourhood": "Yenice",
+        "id": 45756
+    },
+    {
+        "ilce": "Y\u00fcre\u011fir",
+        "neighbourhood": "Yenik\u00f6y",
+        "id": 126723
+    },
+    {
+        "ilce": "Y\u00fcre\u011fir",
+        "neighbourhood": "Yerdelen",
+        "id": 126725
+    },
+    {
+        "ilce": "Y\u00fcre\u011fir",
+        "neighbourhood": "Ye\u015filli H\u00fcseyin Fakili",
+        "id": 145345
+    },
+    {
+        "ilce": "Y\u00fcre\u011fir",
+        "neighbourhood": "Yunuso\u011flu",
+        "id": 126724
+    },
+    {
+        "ilce": "Y\u00fcre\u011fir",
+        "neighbourhood": "Y\u00fcrekli",
+        "id": 204470
+    },
+    {
+        "ilce": "Y\u00fcre\u011fir",
+        "neighbourhood": "Za\u011farli",
+        "id": 126726
+    },
+    {
+        "ilce": "Y\u00fcre\u011fir",
+        "neighbourhood": "Ziyanli",
+        "id": 126727
+    }
+]

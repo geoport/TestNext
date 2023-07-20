@@ -1,0 +1,262 @@
+{
+    "soilClasses": [
+        "GW",
+        "GW-GM",
+        "GC-GM",
+        "GW-GC",
+        "GP",
+        "GP-GM",
+        "GP-GC",
+        "GM",
+        "GC",
+        "SW",
+        "SW-SM",
+        "SW-SC",
+        "SP",
+        "SP-SM",
+        "SP-SC",
+        "SM",
+        "SC",
+        "SC-SM",
+        "CL",
+        "CL-ML",
+        "ML",
+        "CH",
+        "MH",
+        "OL",
+        "OH",
+        "Pt",
+        "Diğer"
+    ],
+    "geologicTextures": [
+        "Aglomera",
+        "Alüvyon",
+        "Amfibollu Şist",
+        "Andezit",
+        "Anhidrit",
+        "Arkoz",
+        "Bazalt",
+        "Bazik Derinlik Kayacı",
+        "Birikinti Konisi",
+        "Bitkisel Toprak",
+        "Bres",
+        "Dasit,Riyodasit",
+        "Diyabaz",
+        "Diyatomit",
+        "Diyorit,Kuvars Diyorit",
+        "Dolomit Kireçtaşı",
+        "Dolomit",
+        "Eski Alüvyon",
+        "Filiş (Eğimli)",
+        "Filiş (Kıvrımlı)",
+        "Fonolit",
+        "Gabro",
+        "Gnays",
+        "Granit",
+        "Granit,Porfir (Pegmatit,Aplit)",
+        "Granodiyorit,Monzonit,Kuvars Monzonit",
+        "Grovak",
+        "Gözlü Gnays",
+        "Jips",
+        "Kaliçi",
+        "Kalk Şist",
+        "Kayrak",
+        "Kil Taşı",
+        "Kil",
+        "Killi Marn",
+        "Killi Şist (Filit)",
+        "Kireçtaşı (Breşimsi)",
+        "Kireçtaşı (Kumlu)",
+        "Kireçtaşı (Marnlı)",
+        "Kireçtaşı (Rekristalize)",
+        "Kireçtaşı (Resifal)",
+        "Kireçtaşı (Sileksli)",
+        "Kireçtaşı (Siltli)",
+        "Kireçtaşı (Tebeşirli)",
+        "Kireçtaşı (Tüfü)",
+        "Kireçtaşı",
+        "Kireçtaşı(Şeyl Aratabakalı)",
+        "Klorit Şist (Yeşil Şist)",
+        "Kum Taşı",
+        "Kum",
+        "Kumlu Marn",
+        "Kuvars Diyorit Porfir",
+        "Kuvarsit",
+        "Kömür",
+        "Lapilli Tüf",
+        "Lipairt (Riyolit)",
+        "Marn",
+        "Mermer",
+        "Mikaşist (Biyotit,Muskovit,Serizit)",
+        "Molas Eğimli",
+        "Monzonit Porfir,Gabro Porfir",
+        "Norit",
+        "Ofiyolit",
+        "Periyodit,Pirpksenit,Hornblendit",
+        "Piroklastik Kayaçlar (Ayrılmamış)",
+        "Piroksenli Şistler (Serpantin,Eklojit)",
+        "Radiyolarit",
+        "Sileks (Çört)",
+        "Silt",
+        "Silttaşı",
+        "Siyenit Porfir",
+        "Siyenit",
+        "Split",
+        "Süngertaşı (Pumis)",
+        "Talk Şist",
+        "Taraça",
+        "Tebeşir",
+        "Trakiandezit,Latit",
+        "Trakit",
+        "Traverten",
+        "Turba",
+        "Tüf Breşi",
+        "Tüf",
+        "Tüfit",
+        "Volkan Camı( Obsidiyen)",
+        "Volkan Cürüfu",
+        "Volkan Külü",
+        "Volkanik Breş",
+        "Yamaç Molozu",
+        "Yeşiltaş (Serpantin)",
+        "Çakıl",
+        "Çakıltaşı (Konglomera)",
+        "Çamurtaşı",
+        "Şeyl"
+    ],
+    "soilDefinitions": {
+        "GW": [
+            "İyi Derecelenmiş Çakıl",
+            "İyi Derecelenmiş Kumlu Çakıl"
+        ],
+        "GW-GM": [
+            "İyi Derecelenmiş Siltli Çakıl",
+            "İyi Derecelenmiş Siltli ve Kumlu Çakıl"
+        ],
+        "GC-GM": [
+            "Siltli, Killi Çakıl",
+            "Kum İçeren Siltli, Killi Çakıl"
+        ],
+        "GW-GC": [
+            "İyi Derecelenmiş Killi Çakıl",
+            "İyi Derecelenmiş Killi ve Kumlu Çakıl"
+        ],
+        "GP": [
+            "Kötü Derecelenmiş Çakıl",
+            "Kötü Derecelenmiş Kumlu Çakıl"
+        ],
+        "GP-GM": [
+            "Kötü Derecelenmiş Siltli Çakıl",
+            "Kötü Derecelenmiş Siltli ve Kumlu Çakıl"
+        ],
+        "GP-GC": [
+            "Kötü Derecelenmiş Killi Çakıl",
+            "Kötü Derecelenmiş Killi ve Kumlu Çakıl"
+        ],
+        "GM": [
+            "Siltli Çakıl",
+            "Kum İçeren Siltli Çakıl"
+        ],
+        "GC": [
+            "Killi Çakıl",
+            "Kum İçeren Killi Çakıl"
+        ],
+        "SW": [
+            "İyi Derecelenmiş Kum",
+            "İyi Derecelenmiş Çakıllı Kum"
+        ],
+        "SW-SM": [
+            "İyi Derecelenmiş Siltli Kum",
+            "İyi Derecelenmiş Siltli ve Çakıllı Kum"
+        ],
+        "SW-SC": [
+            "İyi Derecelenmiş Killi Kum",
+            "İyi Derecelenmiş Killi ve Çakıllı Kum"
+        ],
+        "SP": [
+            "Kötü Derecelenmiş Kum",
+            "Kötü Derecelenmiş Çakıllı Kum"
+        ],
+        "SP-SM": [
+            "Kötü Derecelenmiş Siltli Kum",
+            "Kötü Derecelenmiş Siltli ve Çakıllı Kum"
+        ],
+        "SP-SC": [
+            "Kötü Derecelenmiş Killi Kum",
+            "Kötü Derecelenmiş Killi ve Çakıllı Kum"
+        ],
+        "SM": [
+            "Siltli Kum",
+            "Siltli ve Çakıllı Kum"
+        ],
+        "SC": [
+            "Killi Kum",
+            "Çakıl İçeren Killi Kum"
+        ],
+        "SC-SM": [
+            "Siltli, Killi Kum",
+            "Çakıl İçeren Siltli, Killi Kum"
+        ],
+        "CL": [
+            "Düşük Plastisiteli Kil",
+            "Kum İçeren Düşük Plastisiteli Kil",
+            "Çakıl İçeren Düşük Plastisiteli Kil",
+            "Düşük Plastisiteli Kumlu Kil",
+            "Çakıl İçeren Düşük Plastisiteli Kumlu Kil",
+            "Düşük Plastisiteli Çakıllı Kil",
+            "Kum İçeren Düşük Plastisiteli Çakıllı Kil"
+        ],
+        "CL-ML": [
+            "Düşük Plastisiteli Siltli Kil",
+            "Kum İçeren Düşük Plastisiteli Siltli Kil",
+            "Çakıl İçeren Düşük Plastisiteli Siltli Kil",
+            "Düşük Plastisiteli Siltli Kumlu Kil",
+            "Çakıl İçeren Düşük Plastisiteli Siltli Kumlu Kil",
+            "Düşük Plastisiteli Çakıllı Siltli Kil",
+            "Kum İçeren Düşük Plastisiteli Çakıllı Siltli Kil"
+        ],
+        "ML": [
+            "Silt",
+            "Kum İçeren Düşük Plastisiteli Silt",
+            "Çakıl İçeren Düşük Plastisiteli Silt",
+            "Düşük Plastisiteli Kumlu Silt",
+            "Çakıl İçeren Düşük Plastisiteli Kumlu Silt",
+            "Düşük Plastisiteli Çakıllı Silt",
+            "Kum İçeren Düşük Plastisiteli Çakıllı Silt"
+        ],
+        "CH": [
+            "Yüksek Plastisiteli Kil",
+            "Kum İçeren Yüksek Plastisiteli Kil",
+            "Çakıl İçeren Yüksek Plastisiteli Kil",
+            "Yüksek Plastisiteli Kumlu Kil",
+            "Çakıl İçeren Yüksek Plastisiteli Kumlu Kil",
+            "Yüksek Plastisiteli Çakıllı Kil",
+            "Kum İçeren Yüksek Plastisiteli Çakıllı Kil"
+        ],
+        "MH": [
+            "Yüksek Plastisiteli Silt",
+            "Kum İçeren Yüksek Plastisiteli Silt",
+            "Çakıl İçeren Yüksek Plastisiteli Silt",
+            "Yüksek Plastisiteli Kumlu Silt",
+            "Çakıl İçeren Yüksek Plastisiteli Kumlu Silt",
+            "Yüksek Plastisiteli Çakıllı Silt",
+            "Kum İçeren Yüksek Plastisiteli Çakıllı Silt"
+        ],
+        "OL": [
+            "Düşük Plastisiteli Organik Silt"
+        ],
+        "OH": [
+            "Yüksek Plastisiteli Organik Kil"
+        ],
+        "Pt": [
+            "Turba"
+        ],
+        "Diğer": [
+            "Diğer"
+        ]
+    },
+    "materialTypes": [
+        "Zemin",
+        "Kaya"
+    ]
+}

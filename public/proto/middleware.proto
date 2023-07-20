@@ -1,0 +1,54 @@
+syntax = "proto3";
+
+option go_package = "schema/ApiMiddleWare";
+package ApiMiddleWare;
+
+import "gomatch.proto";
+import "goseismo.proto";
+import "gra.proto";
+import "goprime.proto";
+import "goimprovement.proto";
+
+message Request {
+  GoMatch.EqSelectionRequest eqSelectionRequest = 1;
+  GoSeismo.SeismicAnalysisRequest seismicAnalysisRequest = 2;
+  gra.Request graRequest = 3;
+  GoPrime.GoPrimeRequest goPrimeRequest = 4;
+  GoImprovement.JetGroutRequest goImprovementRequest = 5;
+  string appName = 6;
+  string userId = 7;
+}
+
+
+message Response {
+  string cacheKey = 1;
+}
+
+
+message ReportRequest {
+  string serializedContext = 1;
+  string templateName = 2;
+  string userId = 3;
+  string appName = 4;
+}
+
+message ReportResponse {
+  string reportUrl = 1;
+}
+
+message MongoRequest {
+  string serializedContext = 1;
+  string userId = 2;
+  string appName = 3;
+  string projectName = 4;
+}
+
+message MongoResponse {
+  int32 status = 1;
+}
+
+service ApiMiddleWare {
+  rpc ApiHandler (Request) returns (Response) {}
+  rpc ReportHandler (ReportRequest) returns (ReportResponse) {}
+  rpc MongoHandler (MongoRequest) returns (MongoResponse) {}
+}

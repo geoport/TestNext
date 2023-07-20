@@ -1,0 +1,121 @@
+syntax = "proto3";
+
+option go_package = "schema/GoSeismo";
+package GoSeismo;
+
+// Seismic Analysis Messages
+message SeismicAnalysisRequest {
+  repeated double data = 1;
+  double timeStep = 2;
+  string dataType = 3; // acc, vel, disp
+  string accUnit = 4;
+  string velUnit = 5;
+  string dispUnit = 6;
+  bool applyBaselineCorrection = 7;
+  int32 baselineCorrectionOrder = 8;
+  bool applyFiltering = 9;
+  string filteringType = 10;
+  string filteringFunction = 11;
+  double lowCornerFrequency = 12;
+  double highCornerFrequency = 13;
+  int32 filterOrder = 14;
+  double scaleFactor = 15;
+}
+
+message TimeSeries {
+  string name = 1;
+  repeated double accelerations = 2;
+  repeated double velocities = 3;
+  repeated double displacements = 4;
+  repeated double times = 5;
+  float timeStep = 6;
+}
+
+message ResponseSpectra {
+  repeated double spectralAccelerations = 1;
+  repeated double spectralVelocities = 2;
+  repeated double spectralDisplacements = 3;
+  repeated double pseudoAccelerations = 4;
+  repeated double pseudoVelocities = 5;
+  repeated double periods = 6;
+}
+
+message FourierSpectra {
+  repeated double frequencies = 1;
+  repeated double fourierAmplitudes = 2;
+  repeated double powerAmplitudes = 3;
+}
+
+message GroundMotionParameters {
+  double pga = 1;
+  double pgaTime = 2;
+  double pgv = 3;
+  double pgvTime = 4;
+  double pgd = 5;
+  double pgdTime = 6;
+  double housnerIntensity = 7;
+  double sustainedMaxAcceleration = 8;
+  double sustainedMaxVelocity = 9;
+  double effectiveDesignAcceleration = 10;
+  double accelerationSpectrumIntensity = 11;
+  double velocitySpectrumIntensity = 12;
+  double A95 = 13;
+  double predominantPeriod = 14;
+  double meanPeriod = 15;
+  double uniformDuration = 16;
+  double bracketedDuration = 17;
+  double significantDuration = 18;
+  double effectiveDuration = 19;
+  double ariasIntensity = 20;
+  repeated double ariasIntensityArray = 21;
+  double RmsAcceleration = 22;
+  double RmsVelocity = 23;
+  double RmsDisplacement = 24;
+  double characteristicIntensity = 25;
+  double specificEnergyDensity = 26;
+  repeated double specificEnergyDensityArray = 27;
+  double cumulativeAbsoluteVelocity = 28;
+}
+
+message SeismicAnalysisResponse {
+  TimeSeries timeHistory = 1;
+  ResponseSpectra responseSpectra = 2;
+  FourierSpectra fourierSpectra = 3;
+  GroundMotionParameters groundMotionParameters = 4;
+}
+
+message SpectralAccelerations {
+  repeated double spectralAccelerations = 1;
+}
+
+// Scaling Messages
+message ScalingRequest {
+  repeated SpectralAccelerations spectralAccelerations = 1;
+  repeated double periods = 2;
+  repeated double targetSpectrum = 3;
+  double scalingPeriod = 4;
+  string scalingMethod = 5;
+  double minScalingPeriod = 6;
+  double maxScalingPeriod = 7;
+}
+
+message ScalingReply {
+  repeated double scaleFactors = 1;
+}
+
+// Response Spectra Messages
+message ResponseSpectraRequest {
+  repeated double periods = 1;
+  repeated TimeSeries records = 2;
+}
+
+message ResponseSpectraReply {
+  map<string,SpectralAccelerations> responseSpectra = 1;
+}
+
+service GoSeismoService {
+  rpc SeismicAnalysisHandler (SeismicAnalysisRequest) returns (SeismicAnalysisResponse) {}
+  rpc ScalingHandler (ScalingRequest) returns (ScalingReply) {}
+  rpc ResponseSpectraHandler (ResponseSpectraRequest) returns (ResponseSpectraReply) {}
+}
+

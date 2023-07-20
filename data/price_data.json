@@ -1,0 +1,128 @@
+{
+    "georeport": {
+        "title": "Geoteknik Rapor Yazılımı",
+        "price": {
+            "monthly": "1000",
+            "annual": "10000"
+        },
+        "features": [
+            "Sondaj derinliği",
+            "Sıvılaşma analizi(SPT,CPT,VS)",
+            "Şişme potansiyeli",
+            "Taşıma kapasitesi",
+            "Temelde kayma analizi",
+            "Oturma analizi",
+            "Yerel zemin sınıfı belirleme",
+            "Zemin yatak katsayısı"
+        ],
+        "image": "/assets/imgs/icons/geoteknik_rapor.jpg"
+    },
+    "seismic_analysis": {
+        "title": "Sismik Veri Analizi",
+        "price": {
+            "monthly": "500",
+            "annual": "5000"
+        },
+        "features": [
+            "Fourier ve güç spektrumları",
+            "Veri filtreleme",
+            "Tepki spektrumları",
+            "Taban çizgisi düzeltmesi",
+            "Yer hareketi parametreleri",
+            "Zaman serileri"
+        ],
+        "image": "/assets/imgs/icons/deprem_veri_analizi.jpg"
+    },
+    "earthquake_record_selection": {
+        "title": "Deprem Seçimi Yazılımı",
+        "price": {
+            "monthly": "1000",
+            "annual": "10000"
+        },
+        "features": [
+            "NGA West-2 veri tabanı",
+            "TBDY 2018'e uygun deprem seçimi"
+        ],
+        "image": "/assets/imgs/icons/deprem_secimi.jpg"
+    },
+    "ground_response_analysis": {
+        "title": "Sahaya Özel Davranış Analizi",
+        "price": {
+            "monthly": "1500",
+            "annual": "15000"
+        },
+        "features": [
+            "Nonlineer analiz",
+            "Yüzey tasarım spektrumu",
+            "Sahaya özel davranış analizi raporu"
+        ],
+        "image": "/assets/imgs/icons/deprem_kaydi_olceklendirme.jpg"
+    },
+    "soil_correlations": {
+        "title": "Zemin Parametreleri Korelasyonları",
+        "price": {
+            "monthly": "750",
+            "annual": "7500"
+        },
+        "features": [
+            "Drenajsız Kayma Dayanımı",
+            "İçsel Sürtünme Açısı",
+            "Elastisite Modülü",
+            "Poisson Oranı",
+            "Sıkışma İndisi",
+            "Yeniden Sıkışma İndisi",
+            "Hacimsel Sıkışma Katsayısı",
+            "Kayma Modülü",
+            "Kesme Dalgası Hızı"
+        ],
+        "image": "/assets/imgs/icons/deprem_kaydi_olceklendirme.jpg"
+    },
+    "premium": {
+        "title": "Premium",
+        "price": {
+            "monthly": "4500",
+            "annual": "45000"
+        },
+        "features": [
+            "Tüm yazılımlar",
+            "1 Kişiye özel rapor taslağı(Yıllık alımlarda)"
+        ],
+        "image": "/assets/imgs/icons/deprem_kaydi_olceklendirme.jpg"
+    },
+    "packet1": {
+        "title": "Paket 1",
+        "price": {
+            "monthly": "2000",
+            "annual": "20000"
+        },
+        "features": [
+            "Deprem seçimi yazılımı",
+            "Sahaya özel davranış analizi yazılımı",
+            "Sismik veri analizi yazılımı"
+        ],
+        "image": "/assets/imgs/icons/deprem_kaydi_olceklendirme.jpg"
+    },
+    "packet2": {
+        "title": "Paket 2",
+        "price": {
+            "monthly": "1250",
+            "annual": "12500"
+        },
+        "features": ["Geoteknik rapor yazılımı", "Parametre seçim modülü"],
+        "image": "/assets/imgs/icons/deprem_kaydi_olceklendirme.jpg"
+    },
+    "packet3": {
+        "title": "Paket 3",
+        "price": {
+            "monthly": "3000",
+            "annual": "30000"
+        },
+        "features": [
+            "Geoteknik rapor yazılımı",
+            "Parametre seçim modülü",
+            "Sahaya özel davranış analizi yazılımı",
+            "Deprem seçimi yazılımı"
+        ],
+        "image": "/assets/imgs/icons/deprem_kaydi_olceklendirme.jpg"
+    }
+}

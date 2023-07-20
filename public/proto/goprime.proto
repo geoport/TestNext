@@ -1,0 +1,437 @@
+syntax = "proto3";
+
+option go_package = "schema/GoPrime";
+package GoPrime;
+
+// Request messages for the GoPrime service.
+message SoilProfile {
+    repeated string soilClass = 1;
+    repeated bool isCohesive = 2;
+    repeated double dampingRatio = 3;
+    repeated string materialType = 4;
+    repeated double thickness = 5;
+    repeated double dryUnitWeight = 6;
+    repeated double saturatedUnitWeight = 7;
+    repeated double fineContent = 8;
+    repeated double liquidLimit = 9;
+    repeated double plasticLimit = 10;
+    repeated double plasticityIndex = 11;
+    repeated double undrainedShearStrength = 12;
+    repeated double cohesion = 13;
+    repeated double frictionAngle = 14;
+    repeated double waterContent = 15;
+    repeated double poissonsRatio = 16;
+    repeated double elasticModulus = 17;
+    repeated double voidRatio = 18;
+    repeated double recompressionIndex = 19;
+    repeated double compressionIndex = 20;
+    repeated double preconsolidationPressure = 21;
+    repeated double volumeCompressibilityCoefficient = 22;
+    repeated double shearWaveVelocity = 23;
+    repeated int64 spt_N = 24;
+    repeated double coneResistance = 25;
+    repeated double porePressure = 26;
+    repeated double RQD = 27;
+    repeated double IS50 = 28;
+    repeated double kp = 29;
+    double groundWaterLevel = 30;
+    bool noGwt = 31;
+}
+
+message Loads {
+    double horizontalLoadX = 1;
+    double horizontalLoadY = 2;
+    double bearingCapacityLoad = 3;
+    double settlementLoad = 4;
+    double effectiveDepthLoad = 5;
+    double swellingPotentialLoad = 6;
+}
+
+message Foundation {
+    double foundationDepth = 1;
+    double foundationBaseAngle = 2;
+    double foundationWidth = 3;
+    double foundationLength = 4;
+    double surfaceFrictionCoefficient = 5;
+    double slopeAngle = 6;
+}
+
+message Seismicity {
+    double earthquakeMagnitude = 1;
+    double PGA = 2;
+    double SDS = 3;
+    string localSoilClass = 4;
+    double SS = 5;
+    double S1 = 6;
+}
+
+message CPT {
+    repeated double depth = 1;
+    repeated double coneResistance = 2;
+    repeated double porePressure = 3;
+}
+
+message SPT {
+    repeated double depth = 1;
+    repeated int64 N = 2;
+    double energyCorrectionFactor = 3;
+    double diameterCorrectionFactor = 4;
+    double samplerCorrectionFactor = 5;
+    bool makeCorrection = 6;
+    repeated int64 N60 = 7;
+    repeated int64 N160 = 8;
+    repeated int64 N160F = 9;
+    repeated double Cr = 10;
+    repeated double Cn = 11;
+    repeated double fineContent = 12;
+    repeated double alpha = 13;
+    repeated double beta = 14;
+    int64 averageN = 15;
+}
+
+message MASW {
+    repeated double thickness = 1;
+    repeated double shearWaveVelocity = 2;
+    repeated double compressionWaveVelocity = 3;
+}
+
+message Pressuremeter {
+    repeated double depth = 1;
+    repeated double limitPressure = 2;
+    repeated double netLimitPressure = 3;
+}
+
+message FieldTests {
+    CPT cpt = 1;
+    SPT spt = 2;
+    MASW masw = 3;
+    Pressuremeter pressuremeter = 4;
+}
+
+enum ConsolidationMethods {
+    MV = 0;
+    GP = 1;
+}
+
+enum SelectedValue {
+    MIN = 0;
+    MAX = 1;
+    MEAN = 2;
+}
+
+message AnalysisOptions {
+    // soil coefficient
+    bool soilCoefficientAnalysis = 1;
+    bool soilCoefficientBySettlement = 2;
+    bool soilCoefficientByBearingCapacity = 3;
+    SelectedValue soilCoefficientSelectedValue = 4;
+    // swelling potential
+    bool swellingPotentialAnalysis = 5;
+    // effective depth
+    bool effectiveDepthAnalysis = 6;
+    // local soil class
+    bool localSoilClassAnalysis = 7;
+    bool localSoilClassBySPT = 8;
+    bool localSoilClassByVS = 9;
+    bool localSoilClassByCu = 10;
+    // settlement
+    bool settlementAnalysis = 11;
+    bool elasticSettlementAnalysis = 12;
+    bool consolidationSettlementAnalysis = 13;
+    ConsolidationMethods consolidationMethod = 14;
+    // bearing capacity
+    bool bearingCapacityAnalysis = 15;
+    bool bearingCapacityByVesic = 16;
+    bool bearingCapacityByPressuremeter = 17;
+    bool bearingCapacityByVS = 18;
+    bool bearingCapacityByRQD = 19;
+    bool bearingCapacityShortTerm = 20;
+    bool bearingCapacityLongTerm = 21;
+    SelectedValue bearingCapacitySelectedValue = 22;
+    // horizontal sliding
+    bool horizontalSlidingAnalysis = 23;
+    // liquefaction
+    bool liquefactionAnalysis = 24;
+    bool liquefactionBySPT = 25;
+    bool liquefactionByVS = 26;
+    bool liquefactionByCPT = 27;
+    // design spectrum
+    bool designSpectrumAnalysis = 28;
+
+}
+
+message GoPrimeRequest {
+    SoilProfile soilProfile = 1;    
+    Loads loads = 2;
+    Foundation foundation = 3;
+    Seismicity seismicity = 4;
+    FieldTests fieldTests = 5;
+    AnalysisOptions analysisOptions = 6;
+}
+
+// Response messages for the GoPrime service.
+
+// liquefaction
+message LiquefactionCommonParams {
+    repeated string soilClasses = 1;
+    repeated double layerThicknesses = 2;
+    repeated double dryUnitWeights = 3;
+    repeated double saturatedUnitWeights = 4;
+    repeated double fineContents = 5;
+    repeated double plasticityIndexes = 6;
+    repeated double layerDepths = 7;
+    repeated double normalStresses = 8;
+    repeated double effectiveStresses = 9;
+    repeated double Cn = 10;
+    repeated double CRR = 11;
+    repeated double CRR75 = 12;
+    repeated double CSR = 13;
+    repeated double safetyFactors = 14;
+    repeated bool isSafe = 15;
+    repeated double settlements = 16;
+    double totalSettlement = 17;
+    double MSF = 18;
+    repeated double Rd = 19;
+}
+
+message LiquefactionBySPT {
+    repeated int64 N = 1;
+    repeated int64 N60 = 2;
+    repeated int64 N160 = 3;
+    repeated int64 N160f = 4;
+    repeated double Cr = 5;
+    LiquefactionCommonParams commonParams = 6;
+}
+
+message LiquefactionByVS {
+    repeated double Vs = 1;
+    repeated double Vs1 = 2;
+    repeated double Vs1c = 3;
+    LiquefactionCommonParams commonParams = 4;
+}
+
+message LiquefactionByCPT {
+    repeated double qc = 1;
+    repeated double qc1ncs = 2;
+    LiquefactionCommonParams commonParams = 3;
+}
+
+message LiquefactionResult {
+    LiquefactionBySPT SPT = 1;
+    LiquefactionByVS VS = 2;
+    LiquefactionByCPT CPT = 3;
+    double selectedSettlement = 4;
+    bool isSafe = 5;
+}
+
+// local soil class
+message LocalSoilClassCommonParams {
+    repeated double depth = 1;
+    repeated double H = 2;
+    repeated double N = 3; // N60 || VS || Cu
+    repeated double H_N = 4;
+    double sum_H_N = 5;
+    double N_30 = 6;
+    string soilClass = 7;
+}
+
+message LocalSoilClassResult {
+    LocalSoilClassCommonParams SPT = 1;
+    LocalSoilClassCommonParams VS = 2;
+    LocalSoilClassCommonParams Cu = 3;
+    string localSoilClassSelected = 4;
+}
+
+// horizontal sliding
+message HorizontalSlidingResult {
+    double Rth = 1;
+    double Ptv = 2;
+    double Ac = 3;
+    double RpkX = 4;
+    double RpkY = 5;
+    double RptX = 6;
+    double RptY = 7;
+    double sumX = 8;
+    double sumY = 9;
+    bool isSafeX = 10;
+    bool isSafeY = 11;
+    double VthX = 12;
+    double VthY = 13;
+}
+
+// bearing capacity
+// Vesic
+message BearingCapacityFactors {
+    double Nq = 1;
+    double Nc = 2;
+    double Ng = 3;
+}
+
+message ShapeFactors {
+    double Sq = 1;
+    double Sc = 2;
+    double Sg = 3;
+}
+
+message DepthFactors {
+    double Dq = 1;
+    double Dc = 2;
+    double Dg = 3;
+}
+
+message LoadInclinationFactors {
+    double Iq = 1;
+    double Ic = 2;
+    double Ig = 3;
+}
+
+message GroundFactors {
+    double Gq = 1;
+    double Gc = 2;
+    double Gg = 3;
+}
+
+message BaseFactors {
+    double Bq = 1;
+    double Bc = 2;
+    double Bg = 3;
+}
+
+message BCSoilParams{
+    double unitWeight = 1;
+    double cohesion = 2;
+    double frictionAngle = 3;
+}
+
+message VesicSingleTerm {
+    BearingCapacityFactors bearingCapacityFactors = 1;
+    ShapeFactors shapeFactors = 2;
+    DepthFactors depthFactors = 3;
+    LoadInclinationFactors loadInclinationFactors = 4;
+    GroundFactors groundFactors = 5;
+    BaseFactors baseFactors = 6;
+    BCSoilParams soilParams = 7;
+    double ultimateBearingCapacity = 8;
+    double allowableBearingCapacity = 9;
+    bool isSafe = 10;
+}
+
+message BCVesicResult {
+    VesicSingleTerm shortTerm = 1;
+    VesicSingleTerm longTerm = 2;
+}
+
+// Pressure meter
+message BCPressureMeterShortTerm {
+    double Cu = 1;
+    double Nc = 2;
+    double qu = 3;
+    double allowableBearingCapacity = 4;
+    bool isSafe = 5;
+}
+
+message BCPressureMeterLongTerm {
+    double kp = 1;
+    double allowableBearingCapacity = 2;
+    bool isSafe = 3;
+}
+
+message BCPressureMeterResult {
+    BCPressureMeterShortTerm shortTerm = 1;
+    BCPressureMeterLongTerm longTerm = 2;
+    double effectivePressure = 3;
+    double netEffectivePressure = 4;
+}
+
+// RQD
+message BCRqdResult {
+    double kp = 1;
+    double Is50 = 2;
+    double ultimateBearingCapacity = 3;
+    double allowableBearingCapacity = 4;
+    bool isSafe = 5;
+    double qLab = 6;
+    double qfRatio = 7;
+    double RQD = 8;
+}
+
+// VS
+message BCVsResult {
+    double VS = 1;
+    double unitWeight = 2;
+    double ultimateBearingCapacity = 3;
+    double allowableBearingCapacity = 4;
+    bool isSafe = 5;
+    double safetyFactor = 6;
+}
+
+message BearingCapacityResult {
+    BCVesicResult vesic = 1;
+    BCPressureMeterResult pressureMeter = 2;
+    BCRqdResult RQD = 3;
+    BCVsResult VS = 4;
+    double shortTermBearingCapacity = 5;
+    double longTermBearingCapacity = 6;
+    bool isShortTermSafe = 7;
+    bool isLongTermSafe = 8;
+}
+
+// settlement
+message SettlementResult {
+    repeated double elasticSettlements = 1;
+    repeated double consolidationSettlements = 2;
+    repeated double totalSettlements = 3;
+    double totalElasticSettlement = 4;
+    double totalConsolidationSettlement = 5;
+    double totalSettlement = 6;
+}
+
+// effective depth
+message EffectiveDepthResult {
+    double depthByPressure = 1;
+    double depthByDimension = 2;
+    double selectedDepth = 3;
+}
+
+// swelling potential
+message SwellingPotentialResult {
+    repeated double layerCenters = 1;
+    repeated double effectiveStresses = 2;
+    repeated double deltaSigmas = 3;
+    repeated double swellingPressures = 4;
+    repeated bool isSafe = 5;
+    double netFoundationPressure = 6;
+}
+
+// soil coefficient
+message SoilCoefficientResult {
+    double bySettlement = 1;
+    double byBearingCapacity = 2;
+    double selectedSoilCoefficient = 3;
+}
+
+message SpectralCoordiantes {
+    double FS = 1;
+    double F1 = 2;
+    double SDS = 3;
+    double SD1 = 4;
+    double S1 = 5;
+    double SS = 6;
+}
+
+message GoPrimeResponse {
+    LiquefactionResult liquefaction = 1;
+    LocalSoilClassResult localSoilClass = 2;
+    HorizontalSlidingResult horizontalSliding = 3;
+    BearingCapacityResult bearingCapacity = 4;
+    SettlementResult settlement = 5;
+    EffectiveDepthResult effectiveDepth = 6;
+    SwellingPotentialResult swellingPotential = 7;
+    SoilCoefficientResult soilCoefficient = 8;
+    SpectralCoordiantes spectralCoordinates = 9;
+    SPT sptLog = 10;
+}
+
+service GoPrime {
+    rpc Analyse (GoPrimeRequest) returns (GoPrimeResponse) {}
+}
