@@ -12,7 +12,7 @@ RUN apk add --update python3 make g++ gcc fftw-dev libc6-compat
 RUN apk add --update --repository http://dl-3.alpinelinux.org/alpine/edge/testing vips-dev
 RUN npm install
 RUN npm i sharp
-
+ENV NEXT_SHARP_PATH /tmp/node_modules/sharp
 # Copy the entire project to the working directory
 COPY . .
 
