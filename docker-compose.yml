@@ -6,6 +6,7 @@ services:
             - 3000:3000
         networks:
             - web
+        restart: always
     nginx:
         image: nginx
         ports:
@@ -18,6 +19,7 @@ services:
             - app
         networks:
             - web
+        restart: always
 networks:
     web:
         driver: bridge
